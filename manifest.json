@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Dänisch Trainer",
+  "short_name": "Dänisch",
+  "description": "Die 5000 häufigsten dänischen Wörter lernen – mit deutschen Bedeutungen, Karteikarten und Geschichten.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#efe8d8",
+  "theme_color": "#b3172d",
+  "lang": "de",
+  "dir": "ltr",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

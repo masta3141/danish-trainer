@@ -1,0 +1,5004 @@
+# German glosses for the Danish words (word<TAB>gloss[<TAB>display form]), used by tools/build-words.py.
+# The word must match the DSL lemma exactly. The optional third column replaces the
+# lemma in the app when the DSL lemma is not the form learners use (megen -> meget).
+# Verbs as infinitive, meanings separated by "; ", keep it short.
+være	sein
+og	und
+en	ein, eine; einer, man
+den	der, die, das (gemeinsames Geschlecht); er, sie, es
+på	auf; an; in
+til	zu; nach; bis; für
+det	das; es
+at	zu (vor Infinitiv); dass
+af	von; aus; durch
+have	haben
+for	für; zu
+der	der, die, das (Relativ); es (Platzhalter); da, dort
+med	mit
+som	wie; als; der, die, das (Relativ)
+ikke	nicht
+kunne	können
+blive	werden; bleiben
+han	er
+om	über; um; ob
+men	aber
+jeg	ich
+vi	wir
+fra	von; aus
+de	sie (Plural); die
+skulle	sollen; müssen; werden (Zukunft)
+så	dann; so; also
+man	man
+ville	wollen; werden (Zukunft)
+sig	sich
+megen	viel	meget
+få	bekommen, kriegen; lassen
+sige	sagen
+år	Jahr
+også	auch
+anden	andere(r); zweite(r)	anden, andet, andre
+god	gut
+nogen	jemand; einige, manche
+stor	groß
+ved	bei; an
+komme	kommen
+sin	sein, ihr (eigener)
+hvor	wo; wie (sehr)
+hun	sie (Singular)
+eller	oder
+al	all, ganz	al, alt, alle
+ud	hinaus, heraus
+ny	neu
+hel	ganz
+nu	jetzt, nun
+gå	gehen
+efter	nach; hinter
+gøre	tun, machen
+se	sehen; schauen
+dansk	dänisch
+når	wenn; als
+over	über
+op	hinauf, herauf
+denne	dieser, diese
+dag	Tag
+hvis	wenn, falls
+tage	nehmen; fahren
+da	als (Vergangenheit); da, weil
+krone	Krone (Währung)
+her	hier
+deres	ihr (Plural)
+gang	Mal; Gang
+tid	Zeit
+måtte	dürfen; müssen
+give	geben
+mod	gegen; nach … hin
+end	als (Vergleich)
+finde	finden
+hvad	was
+kun	nur
+ind	hinein, herein
+stå	stehen
+du	du
+blandt	unter, zwischen
+lang	lang
+første	erste(r)
+under	unter; während
+sted	Ort, Stelle
+land	Land
+selv	selbst
+barn	Kind
+procent	Prozent
+fordi	weil
+jo	ja, doch; je
+derfor	deshalb
+lige	gerade; eben
+sammen	zusammen
+sen	spät
+sidste	letzte(r)
+mand	Mann; Ehemann
+ingen	kein(e); niemand
+mellem	zwischen
+sætte	setzen, stellen
+vise	zeigen
+holde	halten
+lidt	ein bisschen, etwas
+bruge	benutzen, brauchen
+lille	klein
+tidlig	früh
+hver	jede(r)
+samme	gleiche(r), selbe(r)
+mene	meinen
+både	sowohl (… als auch)
+del	Teil
+gammel	alt
+nok	genug; wohl, wahrscheinlich
+kommune	Gemeinde, Kommune
+liden	klein, gering
+mens	während
+dog	doch, jedoch
+skrive	schreiben
+bare	nur, bloß
+hos	bei
+høj	hoch; groß; laut
+menneske	Mensch
+ligge	liegen
+tilbage	zurück
+ske	geschehen, passieren
+igen	wieder
+siden	seit; seitdem; vor (zeitlich)
+sag	Sache; Fall
+regering	Regierung
+eksempel	Beispiel
+frem	vorwärts, hervor
+verden	Welt
+måske	vielleicht
+sådan	so, solch
+folk	Leute; Volk
+vide	wissen
+lave	machen; kochen
+uden	ohne
+tale	sprechen, reden
+endnu	noch
+egen	eigen
+ung	jung
+hvordan	wie
+problem	Problem
+spille	spielen
+side	Seite
+uge	Woche
+vej	Weg; Straße
+minut	Minute
+penge	Geld
+vores	unser
+ned	hinunter, herunter
+fortælle	erzählen
+rigtig	richtig
+tro	glauben
+kamp	Kampf; Spiel (Sport)
+klar	klar; fertig, bereit
+kvinde	Frau
+ifølge	laut, gemäß
+liv	Leben
+omkring	um … herum; ungefähr
+virksomhed	Unternehmen, Firma
+politisk	politisch
+by	Stadt
+lægge	legen
+stadig	immer noch
+forhold	Verhältnis; Beziehung
+først	zuerst; erst
+måde	Art, Weise
+mulighed	Möglichkeit
+arbejde	arbeiten
+gennem	durch
+lade	lassen
+grund	Grund; Grundstück
+allerede	schon, bereits
+begynde	anfangen, beginnen
+samtidig	gleichzeitig
+politi	Polizei
+køre	fahren
+bog	Buch
+skabe	schaffen, erschaffen
+vælge	wählen
+område	Gebiet, Bereich
+måned	Monat
+sidde	sitzen
+gerne	gern
+par	Paar
+svær	schwer, schwierig
+min	mein
+række	Reihe
+aldrig	nie
+netop	gerade, genau
+følge	folgen
+altid	immer
+skole	Schule
+plads	Platz
+amerikansk	amerikanisch
+familie	Familie
+betyde	bedeuten
+høre	hören
+vigtig	wichtig
+går	gestern (i går)	i går
+næste	nächste(r)
+slå	schlagen
+klokke	Glocke; Uhr (klokken tre = um drei Uhr)
+million	Million
+pris	Preis
+nemlig	nämlich
+historie	Geschichte
+tænke	denken
+ting	Ding, Sache
+bil	Auto
+møde	treffen, begegnen
+kende	kennen
+forskellig	verschieden
+syne	scheinen; finden, meinen	synes
+film	Film
+sende	senden, schicken
+falde	fallen
+hus	Haus
+formand	Vorsitzender
+burde	sollte(n)
+samle	sammeln
+direktør	Direktor
+aften	Abend
+parti	Partei; Partie
+rundt	rund, herum
+spørgsmål	Frage
+inden	bevor; innerhalb
+medlem	Mitglied
+mulig	möglich
+økonomisk	wirtschaftlich; sparsam
+hurtig	schnell
+købe	kaufen
+dansker	Däne, Dänin
+stærk	stark; scharf (Essen)
+vinde	gewinnen
+næsten	fast
+særlig	besonders
+betale	bezahlen
+leve	leben
+enkelt	einzeln; einfach
+handle	handeln; einkaufen
+ellers	sonst
+nå	erreichen; schaffen
+vente	warten; erwarten
+heller	auch nicht (heller ikke)
+hold	Mannschaft, Team; Gruppe
+ønske	wünschen
+blot	bloß, nur
+selskab	Gesellschaft; Firma
+dermed	damit
+samt	sowie
+cirka	ungefähr, circa
+fald	Fall
+stige	steigen
+gruppe	Gruppe
+lov	Gesetz; Erlaubnis
+kalde	rufen; nennen
+billede	Bild
+faktisk	tatsächlich
+mål	Ziel; Tor (Sport); Maß
+lyde	klingen
+især	besonders, vor allem
+videre	weiter
+international	international
+stille	stellen; still, ruhig
+offentlig	öffentlich
+ord	Wort
+time	Stunde; Unterrichtsstunde
+forsøge	versuchen
+læse	lesen; studieren
+bag	hinter
+politiker	Politiker
+gælde	gelten
+føre	führen
+alligevel	trotzdem
+ofte	oft
+brug	Gebrauch, Benutzung
+kort	kurz; Karte
+bank	Bank
+person	Person
+nær	nah
+udvikling	Entwicklung
+resultat	Ergebnis
+trække	ziehen
+leder	Leiter, Chef
+forbindelse	Verbindung
+sikre	sichern, sicherstellen
+navn	Name
+øvrig	übrig
+hvorfor	warum
+løb	Lauf; Rennen
+form	Form
+forklare	erklären
+fast	fest
+ganske	ganz, ziemlich
+ansætte	anstellen, einstellen
+før	vor; bevor; früher
+hvem	wer
+grad	Grad
+hård	hart
+sikker	sicher
+føle	fühlen
+tæt	dicht; nah
+opleve	erleben
+eneste	einzige(r)
+projekt	Projekt
+tysk	deutsch
+samfund	Gesellschaft
+bo	wohnen
+kræve	verlangen, fordern
+spørge	fragen
+hjælpe	helfen
+forstå	verstehen
+selvfølgelig	selbstverständlich
+dårlig	schlecht
+således	so, auf diese Weise
+svare	antworten
+fortsætte	fortsetzen, weitermachen
+plan	Plan
+hånd	Hand
+fri	frei
+universitet	Universität
+avis	Zeitung
+valg	Wahl
+opgave	Aufgabe
+tal	Zahl
+slags	Art, Sorte
+klub	Klub, Verein
+stat	Staat
+morgen	Morgen
+tekst	Text
+forælder	Elternteil (forældre = Eltern)
+hvilken	welche(r)
+ene	allein
+ret	Recht; Gericht; Gericht (Speise); ziemlich
+ekstra	extra
+ude	draußen
+flytte	umziehen; bewegen
+undersøgelse	Untersuchung
+antal	Anzahl
+alene	allein
+begge	beide
+vende	wenden, drehen
+ren	sauber, rein
+lokal	lokal, örtlich
+fremtid	Zukunft
+ændre	ändern
+aftale	Vereinbarung; Verabredung
+væk	weg
+krav	Forderung; Anforderung
+øje	Auge
+præsident	Präsident
+samarbejde	Zusammenarbeit
+koste	kosten
+forslag	Vorschlag
+musik	Musik
+fylde	füllen
+privat	privat
+oplyse	mitteilen; beleuchten
+fuld	voll; betrunken
+søndag	Sonntag
+ramme	treffen; Rahmen
+medarbejder	Mitarbeiter
+bygge	bauen
+længe	lange
+imod	gegen
+pige	Mädchen
+tilfælde	Fall; Zufall
+elev	Schüler
+social	sozial
+igennem	durch, hindurch
+marked	Markt
+lære	lernen; lehren
+far	Vater
+udvikle	entwickeln
+lørdag	Samstag
+mor	Mutter
+kirke	Kirche
+kunde	Kunde
+åbne	öffnen
+prøve	probieren, versuchen; Prüfung
+halv	halb
+europæisk	europäisch
+hedde	heißen
+periode	Zeitraum, Periode
+borger	Bürger
+masse	Masse; eine Menge
+rejse	reisen; heben
+ligne	ähneln, gleichen
+vel	wohl
+åben	offen
+mangle	fehlen
+hjem	nach Hause; Heim
+ligesom	wie, genauso wie
+hen	hin
+ja	ja
+sælge	verkaufen
+uddannelse	Ausbildung
+desuden	außerdem
+forvente	erwarten
+direkte	direkt
+fredag	Freitag
+søge	suchen; sich bewerben
+lukke	schließen, zumachen
+lav	niedrig
+ven	Freund
+ende	enden; Ende
+job	Job
+fin	fein, schön
+krig	Krieg
+vand	Wasser
+slet	gar (slet ikke = gar nicht)
+fortsat	weiterhin
+nummer	Nummer
+interesse	Interesse
+hinanden	einander
+økonomi	Wirtschaft; Finanzen
+spil	Spiel
+såkaldt	sogenannt
+hjælp	Hilfe
+deltage	teilnehmen
+starte	starten, beginnen
+tv	Fernsehen
+ad	entlang, über
+kilometer	Kilometer
+virke	wirken; funktionieren
+rolle	Rolle
+øjeblik	Augenblick
+håbe	hoffen
+løbe	laufen, rennen
+almindelig	gewöhnlich, normal
+bringe	bringen
+gengæld	Gegenleistung (til gengæld = dafür)
+tur	Ausflug, Tour; Reihe (det er din tur)
+sort	schwarz
+politik	Politik
+tidspunkt	Zeitpunkt
+hvid	weiß
+debat	Debatte
+nødvendig	notwendig
+meter	Meter
+lykkes	gelingen
+glad	froh, glücklich
+ansvar	Verantwortung
+stykke	Stück
+modtage	empfangen, erhalten
+vokse	wachsen
+forfatter	Autor, Schriftsteller
+vurdere	bewerten, einschätzen
+system	System
+miste	verlieren
+positiv	positiv
+fælles	gemeinsam
+dreng	Junge
+løsning	Lösung
+mandag	Montag
+torsdag	Donnerstag
+tvivl	Zweifel
+øge	erhöhen, steigern
+passe	passen; aufpassen auf
+rød	rot
+ledelse	Leitung, Führung
+skylde	schulden
+sæson	Saison
+virkelighed	Wirklichkeit
+fransk	französisch
+teater	Theater
+alvorlig	ernst
+beslutning	Entscheidung
+spiller	Spieler
+læge	Arzt, Ärztin
+bryde	brechen
+skat	Steuer; Schatz
+rest	Rest
+imidlertid	jedoch
+kraft	Kraft
+lejlighed	Wohnung; Gelegenheit
+aktie	Aktie
+hænge	hängen
+medie	Medium
+per	pro
+sejr	Sieg
+baggrund	Hintergrund
+dyb	tief
+personlig	persönlich
+enig	einig
+sommer	Sommer
+afvise	ablehnen
+grænse	Grenze
+beslutte	beschließen, entscheiden
+længere	länger; nicht mehr (ikke længere)
+svar	Antwort
+nuværende	jetzig, derzeitig
+onsdag	Mittwoch
+råd	Rat
+foran	vor
+naturligvis	natürlich
+indsats	Einsatz
+huske	sich erinnern; daran denken
+regne	rechnen; regnen
+tabe	verlieren
+firma	Firma
+slem	schlimm; böse, unartig
+bestyrelse	Vorstand
+grøn	grün
+klare	schaffen, bewältigen
+hoved	Kopf
+bede	bitten; beten
+søn	Sohn
+befolkning	Bevölkerung
+januar	Januar
+hverken	weder (… noch)
+gennemføre	durchführen
+dø	sterben
+virkelig	wirklich
+forsøg	Versuch
+patient	Patient
+bestå	bestehen
+trods	trotz
+mening	Meinung; Sinn, Bedeutung
+folketing	Folketing (dänisches Parlament)
+svensk	schwedisch
+forening	Verein
+nat	Nacht
+konservativ	konservativ
+start	Start
+salg	Verkauf
+yderlig	äußerst (yderligere = weitere)
+tirsdag	Dienstag
+inde	drinnen
+lys	Licht; Kerze; hell
+støtte	unterstützen
+smuk	schön
+pause	Pause
+museum	Museum
+normal	normal
+organisation	Organisation
+stilling	Stelle, Position; Stellung
+via	über, via
+understrege	unterstreichen, betonen
+hente	holen, abholen
+værdi	Wert
+vis	gewiss, bestimmt (en vis = ein gewisser); weise
+stemme	Stimme
+oplysning	Auskunft, Information
+egentlig	eigentlich
+engang	einmal, einst
+dengang	damals
+minister	Minister
+skifte	wechseln
+afgørende	entscheidend
+mærke	merken, spüren; Marke
+forskel	Unterschied
+forlade	verlassen
+let	leicht
+scene	Bühne; Szene
+mad	Essen
+indgå	eingehen; Teil sein von
+nej	nein
+unge	Junges; Jugendliche (de unge)
+september	September
+journalist	Journalist
+kunst	Kunst
+død	Tod; tot
+behandling	Behandlung
+udtryk	Ausdruck
+føde	gebären
+nævne	nennen, erwähnen
+jord	Erde; Boden
+dyr	teuer; Tier
+kigge	gucken, schauen
+midt	mitten
+fungere	funktionieren
+dele	teilen
+professor	Professor
+pludselig	plötzlich
+maj	Mai
+bane	Bahn; Spielfeld
+milliard	Milliarde
+klasse	Klasse
+enhver	jeder
+melde	melden
+niveau	Niveau
+værk	Werk
+moderne	modern
+vækst	Wachstum
+afdeling	Abteilung
+snart	bald
+succes	Erfolg
+myndighed	Behörde
+britisk	britisch
+rapport	Bericht
+telefon	Telefon
+bord	Tisch
+magt	Macht
+chef	Chef
+marts	März
+region	Region
+chance	Chance
+butik	Laden, Geschäft
+derefter	danach
+sidst	zuletzt
+levere	liefern
+pege	zeigen (auf)
+bære	tragen
+november	November
+stoppe	stoppen, anhalten
+kritik	Kritik
+generel	allgemein
+voldsom	heftig, gewaltig
+gæst	Gast
+speciel	speziell, besonders
+fokus	Fokus
+december	Dezember
+oplevelse	Erlebnis
+foregå	stattfinden, vor sich gehen
+aktiv	aktiv
+dør	Tür
+kultur	Kultur
+post	Post; Posten
+konsekvens	Konsequenz, Folge
+drive	treiben; betreiben
+hjemme	zu Hause
+undgå	vermeiden
+bestemme	bestimmen, entscheiden
+soldat	Soldat
+årsag	Ursache
+juni	Juni
+erfaring	Erfahrung
+april	April
+blad	Blatt; Zeitschrift
+daglig	täglich
+betydning	Bedeutung
+fodbold	Fußball
+nødt	gezwungen (være nødt til = müssen)
+statsminister	Ministerpräsident, Premierminister
+besøg	Besuch
+fordel	Vorteil
+indtil	bis
+oktober	Oktober
+væsentlig	wesentlich
+lide	leiden; mögen (kunne lide)
+dræbe	töten
+kunstner	Künstler
+dreje	drehen
+dels	teils
+forsvinde	verschwinden
+løse	lösen
+tjene	verdienen; dienen
+begyndelse	Anfang
+konstatere	feststellen
+tilbyde	anbieten
+kurs	Kurs
+fejl	Fehler
+byde	bieten; befehlen
+engelsk	englisch
+nem	leicht, einfach
+billig	billig
+endelig	endlich; unbedingt
+gade	Straße
+risiko	Risiko
+spise	essen
+holdning	Haltung, Einstellung
+natur	Natur
+besøge	besuchen
+beskrive	beschreiben
+derimod	dagegen, hingegen
+slippe	loslassen; davonkommen
+foretage	vornehmen, unternehmen
+træde	treten
+venstre	links
+produkt	Produkt
+voksen	erwachsen; Erwachsener
+lede	leiten; suchen
+glæde	freuen; Freude
+bygning	Gebäude
+datter	Tochter
+koncert	Konzert
+kvalitet	Qualität
+borgmester	Bürgermeister
+konkret	konkret
+radikal	radikal
+artikel	Artikel
+kontakt	Kontakt
+formentlig	vermutlich
+point	Punkt (Wertung)
+undersøge	untersuchen
+konkurrence	Wettbewerb
+kollega	Kollege
+anderledes	anders
+kaste	werfen
+flertal	Mehrheit; Plural
+dollar	Dollar
+lyst	Lust
+desværre	leider
+sprog	Sprache
+stand	Stand; Zustand (i stand til = imstande)
+knap	knapp, kaum
+sang	Lied; Gesang
+weekend	Wochenende
+slutte	beenden; enden
+spændende	spannend
+kæmpe	kämpfen; Riese
+aktivitet	Aktivität
+efterhånden	nach und nach, allmählich
+fængsel	Gefängnis
+rette	richten; korrigieren
+sygdom	Krankheit
+tilbud	Angebot
+krop	Körper
+hensyn	Rücksicht
+publikum	Publikum
+russisk	russisch
+omgang	Runde; Umgang
+interessere	interessieren
+adgang	Zugang, Zutritt
+overraske	überraschen
+umiddelbar	unmittelbar
+skyld	Schuld
+forsker	Forscher
+synge	singen
+herre	Herr
+udfordring	Herausforderung
+februar	Februar
+elske	lieben
+reel	real, tatsächlich
+bolig	Wohnung, Wohnsitz
+behandle	behandeln
+opnå	erreichen, erzielen
+skære	schneiden
+top	Spitze, Gipfel
+årlig	jährlich
+overhovedet	überhaupt
+stjerne	Stern
+præsentere	präsentieren, vorstellen
+forklaring	Erklärung
+sjælden	selten
+august	August
+ringe	anrufen; klingeln
+socialdemokrat	Sozialdemokrat
+tilføje	hinzufügen
+kraftig	kräftig, stark
+opstå	entstehen
+bred	breit
+roman	Roman
+tilsyneladende	anscheinend
+historisk	historisch
+alvor	Ernst
+halvdel	Hälfte
+eksempelvis	beispielsweise
+forhandling	Verhandlung
+true	drohen
+kone	Ehefrau
+selve	selbst (selve byen = die Stadt selbst)
+indføre	einführen
+forkert	falsch
+vild	wild
+titel	Titel
+tanke	Gedanke
+placere	platzieren
+træne	trainieren
+viden	Wissen
+sørge	trauern; sørge for = sorgen für
+interessant	interessant
+central	zentral
+love	versprechen
+spare	sparen
+udenlandsk	ausländisch
+forestilling	Vorstellung; Aufführung
+produktion	Produktion
+juli	Juli
+erkende	erkennen, einsehen
+national	national
+fjerne	entfernen
+idé	Idee
+sikkerhed	Sicherheit
+hidtil	bisher
+uddanne	ausbilden
+miljø	Umwelt; Milieu
+færdig	fertig
+forår	Frühling
+forventning	Erwartung
+naturlig	natürlich
+formål	Zweck
+udgøre	ausmachen, bilden
+tydelig	deutlich
+mine	Miene; Mine
+rum	Raum, Zimmer
+overveje	überlegen, erwägen
+skade	Schaden
+eje	besitzen
+ben	Bein; Knochen
+dække	decken, bedecken
+varm	warm
+udsætte	verschieben; aussetzen
+etablere	gründen, etablieren
+efterår	Herbst
+styrke	Stärke
+type	Typ
+næppe	kaum
+hovedstad	Hauptstadt
+nyde	genießen
+ryge	rauchen
+teknisk	technisch
+tvinge	zwingen
+institution	Einrichtung, Institution
+sammenhæng	Zusammenhang
+dens	sein, ihr (von den)
+benytte	benutzen
+stof	Stoff
+optage	aufnehmen; besetzen
+udvalg	Ausschuss; Auswahl
+nylig	kürzlich (for nylig)
+tegne	zeichnen
+afsløre	enthüllen, aufdecken
+retning	Richtung
+fantastisk	fantastisch
+udland	Ausland
+forretning	Geschäft
+alder	Alter
+vælger	Wähler
+emne	Thema
+dommer	Richter; Schiedsrichter
+presse	drücken, pressen; Presse
+behov	Bedarf, Bedürfnis
+kilde	Quelle
+sjov	lustig; Spaß
+optræde	auftreten
+information	Information
+danne	bilden
+diskutere	diskutieren
+sygehus	Krankenhaus
+gal	verrückt; wütend; falsch
+læser	Leser
+brev	Brief
+markant	markant, deutlich
+skuespiller	Schauspieler
+foreslå	vorschlagen
+udtale	aussprechen; äußern
+klassisk	klassisch
+studerende	Student
+arbejdsplads	Arbeitsplatz
+luft	Luft
+tag	Dach
+fuldstændig	vollständig
+gratis	kostenlos
+typisk	typisch
+traditionel	traditionell
+pæn	hübsch, nett, ordentlich
+opfordre	auffordern
+eftermiddag	Nachmittag
+evne	Fähigkeit
+gud	Gott
+konflikt	Konflikt
+investering	Investition
+kendt	bekannt
+enorm	enorm, riesig
+frygte	fürchten
+norsk	norwegisch
+energi	Energie
+anvende	anwenden, verwenden
+advokat	Anwalt
+populær	beliebt, populär
+forskning	Forschung
+ekspert	Experte
+officiel	offiziell
+demokrati	Demokratie
+behøve	brauchen
+efterfølgende	nachfolgend; anschließend
+slutning	Schluss, Ende
+betragte	betrachten
+udgangspunkt	Ausgangspunkt
+gribe	greifen, fangen
+endda	sogar
+udsigt	Aussicht
+oprindelig	ursprünglich
+middel	Mittel
+kommission	Kommission
+dom	Urteil
+restaurant	Restaurant
+effekt	Wirkung, Effekt
+producere	produzieren
+amt	Kreis, Amt (Verwaltungsbezirk)
+overskud	Überschuss; Gewinn
+vare	Ware
+vin	Wein
+kærlighed	Liebe
+foto	Foto
+bestemt	bestimmt
+fastslå	feststellen
+hjerte	Herz
+ond	böse
+idet	indem; da
+følelse	Gefühl
+ejer	Besitzer
+rykke	rücken; ziehen
+træ	Baum; Holz
+forsvar	Verteidigung
+effektiv	effektiv, wirksam
+angreb	Angriff
+forbi	vorbei
+bidrage	beitragen
+blå	blau
+fysisk	körperlich, physisch
+blande	mischen
+deltager	Teilnehmer
+styre	steuern; regieren
+acceptere	akzeptieren
+arrangement	Veranstaltung
+stigning	Anstieg
+opdage	entdecken
+kold	kalt
+vold	Gewalt; Wall
+forestille	darstellen; sich vorstellen (forestille sig)
+simpelthen	einfach
+turde	sich trauen, wagen
+foreløbig	vorläufig; bisher
+tradition	Tradition
+ændring	Änderung
+kinesisk	chinesisch
+ejendom	Eigentum; Immobilie
+tilfreds	zufrieden
+generation	Generation
+udgift	Ausgabe, Kosten
+frivillig	freiwillig
+farve	Farbe
+tung	schwer
+drøm	Traum
+aktuel	aktuell
+diskussion	Diskussion
+opføre	aufführen; sich benehmen (opføre sig)
+opmærksom	aufmerksam
+kommunal	kommunal
+overtage	übernehmen
+bevæge	bewegen
+afgøre	entscheiden
+initiativ	Initiative
+skaffe	beschaffen, besorgen
+kontrol	Kontrolle
+invitere	einladen
+flygtning	Flüchtling
+indflydelse	Einfluss
+størrelse	Größe
+utrolig	unglaublich
+udgive	herausgeben, veröffentlichen
+vanskelig	schwierig
+hund	Hund
+lande	landen
+stil	Stil; Aufsatz
+vurdering	Einschätzung, Bewertung
+fly	Flugzeug
+udføre	ausführen
+bekræfte	bestätigen
+modstander	Gegner
+fond	Fonds, Stiftung
+begrænse	begrenzen
+bibliotek	Bibliothek
+kommentar	Kommentar
+vedtage	beschließen
+smide	werfen, schmeißen
+primær	primär
+vejr	Wetter
+absolut	absolut
+hotel	Hotel
+betydelig	beträchtlich
+medvirke	mitwirken
+hjemmeside	Webseite, Homepage
+ansigt	Gesicht
+amerikaner	Amerikaner
+beboer	Bewohner
+lærer	Lehrer
+demokratisk	demokratisch
+havn	Hafen
+nordisk	nordisch
+nogensinde	jemals
+oppe	oben
+euro	Euro
+begå	begehen
+spor	Spur; Gleis
+træffe	treffen
+tillade	erlauben
+institut	Institut
+karakter	Note; Charakter
+omfatte	umfassen
+farlig	gefährlich
+regnskab	Abrechnung, Buchhaltung
+eventuel	eventuell
+proces	Prozess
+bevare	bewahren
+kandidat	Kandidat
+kontrakt	Vertrag
+stjæle	stehlen
+opfattelse	Auffassung
+risikere	riskieren
+analyse	Analyse
+ride	reiten
+sport	Sport
+svag	schwach
+bund	Boden, Grund
+mangen	viele; manch	mange
+vestlig	westlich
+fest	Fest, Party
+udvide	erweitern
+snakke	reden, plaudern
+net	Netz
+præge	prägen
+studie	Studio; Studie
+mig	mich, mir
+ødelægge	zerstören, kaputt machen
+hvornår	wann
+påvirke	beeinflussen
+bevægelse	Bewegung
+sammenligne	vergleichen
+løn	Lohn, Gehalt
+rente	Zins
+orden	Ordnung; Orden
+hverdag	Alltag; Werktag
+bange	ängstlich (være bange = Angst haben)
+skridt	Schritt
+italiensk	italienisch
+redde	retten
+tøj	Kleidung
+rig	reich
+udgave	Ausgabe
+materiale	Material
+udtrykke	ausdrücken
+jul	Weihnachten
+ordentlig	ordentlich
+score	punkten, ein Tor schießen
+nyhed	Neuigkeit; Nachrichten (nyheder)
+minde	erinnern
+hele	heilen
+kongelig	königlich
+undervisning	Unterricht
+skarp	scharf
+dukke	tauchen; dukke op = auftauchen; Puppe
+faglig	fachlich
+sund	gesund
+kvindelig	weiblich
+dejlig	schön, herrlich, lecker
+fod	Fuß
+bud	Gebot; Bote
+drikke	trinken
+mangel	Mangel
+træner	Trainer
+erhvervsliv	Wirtschaft, Geschäftswelt
+frihed	Freiheit
+borgerlig	bürgerlich
+tak	danke; Dank
+handling	Handlung
+håb	Hoffnung
+linje	Linie
+nede	unten
+stikke	stechen; stecken
+tyde	deuten
+erklære	erklären (verkünden)
+befinde	sich befinden
+ø	Insel
+flyve	fliegen
+tendens	Tendenz
+udnytte	ausnutzen, nutzen
+kontor	Büro
+umulig	unmöglich
+anledning	Anlass
+investere	investieren
+station	Bahnhof; Station
+straks	sofort
+industri	Industrie
+kritisk	kritisch
+afslutte	abschließen, beenden
+repræsentere	vertreten
+budget	Budget
+rumme	enthalten, fassen
+forbedre	verbessern
+reducere	reduzieren
+skib	Schiff
+dygtig	tüchtig, geschickt
+computer	Computer
+branche	Branche
+kæreste	Freund(in), Partner(in)
+vist	wohl, anscheinend
+handel	Handel
+internet	Internet
+grundlag	Grundlage
+total	total, völlig
+heldigvis	zum Glück
+meddele	mitteilen
+forsvare	verteidigen
+sol	Sonne
+århundrede	Jahrhundert
+hav	Meer
+omfattende	umfassend
+parlament	Parlament
+brænde	brennen
+trussel	Drohung
+slag	Schlag; Schlacht
+kritisere	kritisieren
+herunder	darunter
+køb	Kauf
+militær	militärisch
+byråd	Stadtrat
+lytte	zuhören
+forhindre	verhindern
+henholdsvis	beziehungsweise
+påpege	hinweisen auf
+fremgå	hervorgehen
+regel	Regel
+billet	Fahrkarte, Eintrittskarte
+fattig	arm
+byggeri	Bau, Bauwesen
+træk	Zug; Merkmal
+satse	setzen (auf)
+uanset	unabhängig davon, egal
+tog	Zug
+samtale	Gespräch
+indhold	Inhalt
+religiøs	religiös
+princip	Prinzip
+mængde	Menge
+fejre	feiern
+forlag	Verlag
+løfte	heben; Versprechen
+kasse	Kiste; Kasse
+vægt	Gewicht; Waage
+spids	Spitze
+hospital	Krankenhaus
+respekt	Respekt
+medføre	mit sich bringen
+langsom	langsam
+bus	Bus
+enkel	einfach
+omfang	Umfang
+ferie	Urlaub, Ferien
+fællesskab	Gemeinschaft
+papir	Papier
+undre	wundern
+gift	verheiratet; Gift
+afstand	Abstand, Entfernung
+fred	Frieden
+praksis	Praxis
+liter	Liter
+køkken	Küche
+anbefale	empfehlen
+punkt	Punkt
+opmærksomhed	Aufmerksamkeit
+opfatte	auffassen, wahrnehmen
+udsende	senden, ausstrahlen
+syg	krank
+krise	Krise
+beløb	Betrag
+fortid	Vergangenheit
+instruktør	Regisseur
+afgørelse	Entscheidung
+lån	Darlehen, Kredit
+begivenhed	Ereignis
+hæve	heben; abheben (Geld)
+ens	gleich; jemandes (man → ens)
+lufthavn	Flughafen
+strategi	Strategie
+hest	Pferd
+offer	Opfer
+forholde	sich verhalten
+frisk	frisch
+henvise	verweisen
+nabo	Nachbar
+negativ	negativ
+derudover	darüber hinaus
+muslim	Muslim
+brand	Brand, Feuer
+hundrede	hundert
+løs	los, locker
+hævde	behaupten
+præst	Pfarrer
+udkomme	erscheinen (Buch)
+ro	Ruhe; rudern
+bror	Bruder
+måle	messen
+reform	Reform
+ordning	Regelung
+præcis	genau, präzise
+vindue	Fenster
+landbrug	Landwirtschaft
+opgive	aufgeben; angeben
+udenrigsminister	Außenminister
+tab	Verlust
+overleve	überleben
+centimeter	Zentimeter
+øre	Ohr; Öre (Münze)
+spansk	spanisch
+indtryk	Eindruck
+imellem	zwischen
+indre	innere(r)
+rimelig	angemessen, vernünftig
+inspirere	inspirieren
+dyrke	anbauen; betreiben (Sport)
+bold	Ball
+nægte	verweigern; leugnen
+advare	warnen
+selvstændig	selbstständig
+personale	Personal
+vilje	Wille
+tegn	Zeichen
+bekymre	Sorgen machen (bekymre sig = sich sorgen)
+beskytte	schützen
+formå	vermögen
+sand	wahr; Sand
+nederlag	Niederlage
+metode	Methode
+sekund	Sekunde
+hul	Loch
+anholde	festnehmen
+kanal	Kanal; Sender
+oprette	gründen, einrichten
+dronning	Königin
+arrangere	veranstalten
+kaffe	Kaffee
+fornuftig	vernünftig
+arm	Arm
+gymnasium	Gymnasium
+sandhed	Wahrheit
+fremstille	herstellen; darstellen
+rolig	ruhig
+beskæftige	beschäftigen
+socialdemokrati	Sozialdemokratie; Sozialdemokraten
+lyd	Laut, Geräusch, Ton
+anerkende	anerkennen
+ulovlig	illegal
+skov	Wald
+bro	Brücke
+frygt	Furcht, Angst
+gemme	verstecken; aufbewahren; speichern
+forståelse	Verständnis
+fortælling	Erzählung
+råbe	rufen, schreien
+fange	fangen
+godkende	genehmigen
+springe	springen
+praktisk	praktisch
+hal	Halle
+ryg	Rücken
+klog	klug
+ring	Ring
+runde	Runde
+velkommen	willkommen
+tværtimod	im Gegenteil
+tank	Tank
+dødsdømme	zum Tode verurteilen
+bagefter	hinterher, danach
+trænge	drängen; brauchen (trænge til)
+kulturel	kulturell
+levende	lebendig
+budskab	Botschaft
+kvartal	Quartal
+smag	Geschmack
+årti	Jahrzehnt
+betegne	bezeichnen
+forhandle	verhandeln
+muslimsk	muslimisch
+hellere	lieber
+travl	beschäftigt (have travlt = viel zu tun haben)
+omtale	erwähnen
+dialog	Dialog
+herefter	hiernach
+domstol	Gericht
+simpel	einfach, schlicht
+offentliggøre	veröffentlichen
+felt	Feld
+mørk	dunkel
+repræsentant	Vertreter
+tillid	Vertrauen
+intern	intern
+forleden	neulich
+våben	Waffe
+slut	Schluss, Ende; vorbei
+grov	grob
+yde	leisten
+detalje	Detail
+reaktion	Reaktion
+styr	Kontrolle (have styr på = im Griff haben)
+strand	Strand
+festival	Festival
+samtlige	sämtliche
+takke	danken
+hær	Heer, Armee
+kvadratmeter	Quadratmeter
+argument	Argument
+talent	Talent
+besked	Nachricht, Bescheid
+sove	schlafen
+brede	ausbreiten
+involvere	einbeziehen
+maleri	Gemälde
+ansvarlig	verantwortlich
+sektor	Sektor
+berømt	berühmt
+båd	Boot
+fokusere	sich konzentrieren
+menneskelig	menschlich
+tysker	Deutscher, Deutsche
+pension	Rente, Pension
+åbenbart	offenbar
+ledig	frei; arbeitslos
+ligeledes	ebenfalls
+mail	E-Mail
+medicin	Medizin, Medikament
+angribe	angreifen
+indstille	einstellen
+hvorefter	worauf
+eksistere	existieren
+børs	Börse
+konstant	ständig
+dame	Dame
+omstændighed	Umstand
+væg	Wand
+service	Service; Geschirr
+bevidst	bewusst
+dets	sein (von det)
+vidt	weit
+ekstrem	extrem
+konge	König
+hvorvidt	ob
+nation	Nation
+forbinde	verbinden
+motor	Motor
+finger	Finger
+musiker	Musiker
+ressource	Ressource
+art	Art
+øl	Bier
+smule	bisschen
+arkitekt	Architekt
+male	malen
+blik	Blick
+alliance	Bündnis
+vedkommende	betreffend; die betreffende Person
+arbejdsgiver	Arbeitgeber
+værd	wert
+afholde	abhalten
+forberede	vorbereiten
+gul	gelb
+partner	Partner
+fynsk	fünisch (von Fünen)
+lokale	Raum, Räumlichkeit
+tema	Thema
+fordele	verteilen
+kristen	christlich; Christ
+fag	Fach
+skuffe	enttäuschen; Schublade
+udtalelse	Äußerung, Stellungnahme
+religion	Religion
+skyde	schießen; schieben
+sigt	Sicht
+vilkår	Bedingung
+park	Park
+studere	studieren
+øvre	obere(r)
+fisk	Fisch
+vid	weit
+halvanden	anderthalb
+live	am Leben (i live); live
+binde	binden
+indvandrer	Einwanderer
+højde	Höhe
+landsby	Dorf
+tone	Ton
+træning	Training
+turist	Tourist
+sal	Saal; Stockwerk
+samling	Sammlung
+ulykke	Unfall; Unglück
+element	Element
+besparelse	Einsparung
+dagsorden	Tagesordnung
+pleje	pflegen; pflegen zu
+synspunkt	Standpunkt
+tilhøre	gehören
+ej	nicht
+kød	Fleisch
+olie	Öl
+dobbelt	doppelt
+gulv	Fußboden
+hår	Haar
+særdeles	äußerst
+jagt	Jagd
+sejle	segeln
+fremhæve	hervorheben
+indbygger	Einwohner
+gentage	wiederholen
+grundlæggende	grundlegend
+ligefrem	geradezu
+psykisk	psychisch
+gram	Gramm
+centrum	Zentrum
+opfylde	erfüllen
+syn	Sicht; Sehvermögen
+mund	Mund
+valgkamp	Wahlkampf
+ukendt	unbekannt
+radio	Radio
+markere	markieren
+vinter	Winter
+snarere	eher
+litteratur	Literatur
+indrette	einrichten
+glas	Glas
+drømme	träumen
+premierminister	Premierminister
+drift	Betrieb
+savne	vermissen
+fed	fett; toll, cool
+offentlighed	Öffentlichkeit
+parat	bereit
+tilstrækkelig	ausreichend
+smile	lächeln
+perfekt	perfekt
+stolt	stolz
+operation	Operation
+omkostning	Kosten
+daværende	damalig
+verdenskrig	Weltkrieg
+rettighed	Recht
+tegning	Zeichnung
+sigte	zielen
+vært	Gastgeber; Wirt
+led	Glied; Gelenk
+tilværelse	Dasein
+sagtens	leicht, ohne Weiteres
+fart	Geschwindigkeit, Tempo
+anse	ansehen (als)
+drage	ziehen
+forbyde	verbieten
+seng	Bett
+band	Band (Musik)
+jysk	jütländisch
+bruger	Benutzer
+album	Album
+låne	leihen
+relativ	relativ
+kant	Kante, Rand
+røre	berühren; rühren
+nødvendigvis	notwendigerweise
+venlig	freundlich
+underskud	Defizit
+trykke	drücken
+cykel	Fahrrad
+hjørne	Ecke
+usædvanlig	ungewöhnlich
+bemærke	bemerken
+varme	Wärme
+fornemmelse	Gefühl
+gård	Hof; Bauernhof
+indtage	einnehmen
+position	Position
+udelukkende	ausschließlich
+indrømme	zugeben
+tilstand	Zustand
+solid	solide
+omvendt	umgekehrt
+afhængig	abhängig
+faktum	Tatsache
+tælle	zählen
+stol	Stuhl
+arabisk	arabisch
+ryste	schütteln
+guld	Gold
+fabrik	Fabrik
+ambition	Ehrgeiz, Ambition
+fremmed	fremd
+korrekt	korrekt
+mester	Meister
+brud	Braut; Bruch
+døgn	Tag (24 Stunden)
+undervise	unterrichten
+signal	Signal
+koncentrere	konzentrieren
+grundig	gründlich
+strøm	Strom
+fremgang	Fortschritt
+fyre	feuern, entlassen; heizen
+langs	entlang
+adresse	Adresse
+afgift	Abgabe, Gebühr
+efterlade	hinterlassen
+forudsætning	Voraussetzung
+juridisk	juristisch
+japansk	japanisch
+vælte	umwerfen; umfallen
+udvælge	auswählen
+flygte	fliehen
+andel	Anteil
+tværs	quer
+hustru	Ehefrau
+registrere	registrieren
+håndbold	Handball
+alternativ	Alternative
+blod	Blut
+bekymring	Sorge
+list	List
+din	dein
+usikker	unsicher
+syd	Süden; südlich
+henvende	sich wenden an (henvende sig)
+israelsk	israelisch
+show	Show
+plade	Platte; Schallplatte
+mærkelig	seltsam, merkwürdig
+gennemsnit	Durchschnitt
+atter	wieder
+frue	Frau (Anrede); Ehefrau
+forstand	Verstand
+videnskabelig	wissenschaftlich
+tom	leer
+dramatisk	dramatisch
+sød	süß; lieb, nett
+konklusion	Schlussfolgerung
+passager	Passagier, Fahrgast
+børnehave	Kindergarten
+aflevere	abgeben
+nærhed	Nähe
+regning	Rechnung
+vidne	Zeuge
+skærm	Bildschirm
+melding	Meldung
+grine	lachen
+indtægt	Einnahme, Einkommen
+slot	Schloss
+rod	Wurzel; Unordnung
+figur	Figur
+kreativ	kreativ
+sprede	verbreiten, streuen
+erstatte	ersetzen
+bestille	bestellen; tun (hvad bestiller du?)
+an	an (gå an = angehen, in Ordnung sein)
+finansiel	finanziell
+strid	Streit
+sten	Stein
+musikalsk	musikalisch
+status	Status
+maskine	Maschine
+lege	spielen (Kinder)
+nord	Norden; nördlich
+hjerne	Gehirn
+digital	digital
+stamme	stammen; Stamm
+tiltrække	anziehen
+civil	zivil
+bilist	Autofahrer
+front	Front
+angivelig	angeblich
+teknik	Technik
+lejr	Lager
+foretrække	vorziehen, bevorzugen
+sex	Sex
+fremtidig	zukünftig
+hertil	hierher; hierzu
+værelse	Zimmer
+gæld	Schulden
+mark	Feld, Acker
+kommentere	kommentieren
+dagblad	Tageszeitung
+forløb	Verlauf
+kriminel	kriminell
+finansiere	finanzieren
+udnævne	ernennen
+sænke	senken
+økologisk	ökologisch; bio
+formiddag	Vormittag
+højre	rechts
+rådighed	Verfügung (til rådighed = zur Verfügung)
+lektor	Dozent; Studienrat
+muligvis	möglicherweise
+modstand	Widerstand
+gave	Geschenk
+påstå	behaupten
+tit	oft
+aktion	Aktion
+forandring	Veränderung
+bevis	Beweis
+udbrede	verbreiten
+gevinst	Gewinn
+held	Glück
+kvarter	Viertel; Viertelstunde
+sygeplejerske	Krankenschwester, Pflegekraft
+arbejdskraft	Arbeitskraft
+plante	Pflanze
+teori	Theorie
+producent	Hersteller, Produzent
+himmel	Himmel
+protest	Protest
+smil	Lächeln
+anmeldelse	Rezension; Anzeige
+ankomme	ankommen
+udstyr	Ausrüstung
+tør	trocken; (jeg tør) ich traue mich
+fyr	Typ, Kerl
+oversætte	übersetzen
+leg	Spiel
+henvendelse	Anfrage
+håndtere	handhaben, umgehen mit
+skille	trennen
+kunstnerisk	künstlerisch
+kreds	Kreis
+bevise	beweisen
+overlæge	Oberarzt
+mon	ob wohl (mon han kommer? = ob er wohl kommt?)
+etnisk	ethnisch
+biograf	Kino
+fare	Gefahr
+smage	schmecken; probieren
+fremme	vorne; da, angekommen; fördern
+dans	Tanz
+mur	Mauer
+udarbejde	ausarbeiten
+tænde	anzünden; einschalten
+flaske	Flasche
+jøde	Jude
+diverse	diverse
+elektronisk	elektronisch
+vegne	på vegne af = im Namen von
+is	Eis
+lykkelig	glücklich
+rytter	Reiter; Radrennfahrer
+rulle	rollen
+bidrag	Beitrag
+blomst	Blume
+balance	Gleichgewicht; Bilanz
+bekendt	bekannt; Bekannter
+betingelse	Bedingung
+knytte	knüpfen
+retssag	Gerichtsverfahren
+stribe	Streifen; Reihe (en stribe = eine Reihe von)
+begreb	Begriff
+afløse	ablösen
+forud	voraus
+eksisterende	bestehend
+deltagelse	Teilnahme
+vinder	Gewinner
+attraktiv	attraktiv
+kedelig	langweilig; bedauerlich
+sø	See
+ægteskab	Ehe
+konference	Konferenz
+konkludere	schlussfolgern
+skræmme	erschrecken
+sæt	Satz, Set
+vind	Wind
+forbud	Verbot
+tøven	Zögern
+liste	Liste
+anlæg	Anlage
+erstatning	Ersatz; Schadenersatz
+skjule	verstecken, verbergen
+fugl	Vogel
+gide	Lust haben (jeg gider ikke = ich habe keine Lust)
+tynd	dünn
+danse	tanzen
+uafhængig	unabhängig
+heldig	glücklich, (glück)lich (være heldig = Glück haben)
+reklame	Werbung
+indenfor	innerhalb; drinnen
+prins	Prinz
+division	Liga; Abteilung
+overalt	überall
+ægte	echt
+forfatte	verfassen
+tiltag	Maßnahme
+virkning	Wirkung
+ærlig	ehrlich
+træt	müde
+flok	Schar, Herde
+straf	Strafe
+fødselsdag	Geburtstag
+café	Café
+udgang	Ausgang
+sanger	Sänger
+afsætte	absetzen; bereitstellen
+anmelde	anzeigen; rezensieren
+perspektiv	Perspektive
+hollandsk	niederländisch
+påstand	Behauptung
+ydelse	Leistung
+søster	Schwester
+opbygge	aufbauen
+desto	desto
+supplere	ergänzen
+kriminalitet	Kriminalität
+fader	Vater
+engagere	engagieren
+indbrud	Einbruch
+finansminister	Finanzminister
+jubilæum	Jubiläum
+tilhænger	Anhänger
+hemmelig	geheim
+funktion	Funktion
+afslutning	Abschluss
+stadion	Stadion
+kontakte	kontaktieren
+tjeneste	Dienst; Gefallen
+garanti	Garantie
+fremragende	hervorragend
+enten	entweder
+ordfører	Sprecher (einer Partei)
+redaktør	Redakteur
+tredjedel	Drittel
+stue	Wohnzimmer; Erdgeschoss
+sandsynligvis	wahrscheinlich
+skrue	schrauben; drehen
+fjern	fern
+tyrkisk	türkisch
+køber	Käufer
+overholde	einhalten
+ansøgning	Bewerbung; Antrag
+københavnsk	Kopenhagener
+koge	kochen
+skud	Schuss
+skæbne	Schicksal
+bøde	Geldstrafe, Bußgeld
+bjerg	Berg
+relevant	relevant
+mild	mild
+pågældende	betreffend
+støde	stoßen
+kombinere	kombinieren
+overraskelse	Überraschung
+talsmand	Sprecher
+omgivelse	Umgebung
+mord	Mord
+angå	betreffen
+ild	Feuer
+dømme	urteilen; verurteilen
+motorvej	Autobahn
+blød	weich
+frugt	Obst, Frucht
+overfor	gegenüber
+chauffør	Fahrer
+næse	Nase
+nogenlunde	einigermaßen
+engagement	Engagement
+udelukke	ausschließen
+planlagt	geplant
+anklage	anklagen
+planlægge	planen
+identitet	Identität
+tilfældig	zufällig
+seksuel	sexuell
+inspiration	Inspiration
+rar	nett, angenehm
+fænomen	Phänomen
+ordre	Auftrag, Befehl
+ton	Tonne
+loft	Decke; Dachboden
+kendskab	Kenntnis
+salt	Salz
+henvisning	Verweis; Überweisung
+landskab	Landschaft
+sur	sauer
+standard	Standard
+blanding	Mischung
+hilse	grüßen
+forekomme	vorkommen
+mobiltelefon	Handy
+drab	Tötung, Totschlag
+imponerende	beeindruckend
+konsulent	Berater
+dokumentere	dokumentieren
+leje	mieten; Miete
+sjæl	Seele
+afvikle	abwickeln, durchführen
+nærme	nähern (nærme sig = sich nähern)
+forbrydelse	Verbrechen
+veninde	Freundin
+rådhus	Rathaus
+ungdom	Jugend
+evig	ewig
+beskylde	beschuldigen
+motiv	Motiv
+klage	sich beschweren, klagen; Beschwerde
+eventyr	Märchen; Abenteuer
+tildele	zuteilen; verleihen
+forlænge	verlängern
+vant	gewohnt
+græsk	griechisch
+lette	erleichtern; abheben (Flugzeug)
+traktat	Vertrag (Staaten)
+rive	reißen; reiben
+erhverv	Beruf; Gewerbe
+beskeden	bescheiden
+individuel	individuell
+seer	Zuschauer
+tyk	dick
+administration	Verwaltung
+derved	dadurch
+aktionær	Aktionär
+demonstration	Demonstration
+provins	Provinz
+hyggelig	gemütlich, nett
+tilladelse	Erlaubnis
+relation	Beziehung
+tyv	Dieb
+beskæftigelse	Beschäftigung
+ihjel	zu Tode (slå ihjel = totschlagen)
+afsnit	Abschnitt; Folge (Serie)
+hovedperson	Hauptperson
+farvel	auf Wiedersehen, tschüss
+enhed	Einheit
+udlænding	Ausländer
+lokke	locken
+kritiker	Kritiker
+stifte	gründen, stiften
+ingeniør	Ingenieur
+notere	notieren
+arbejdsløshed	Arbeitslosigkeit
+tryg	sicher, geborgen
+sundhed	Gesundheit
+jamen	aber; na ja
+bort	fort, weg
+inddrage	einbeziehen
+råde	raten; verfügen über (råde over)
+undtagelse	Ausnahme
+tiltale	ansprechen; anklagen; Anklage
+operere	operieren
+udvise	ausweisen
+vække	wecken
+udvidelse	Erweiterung
+pædagog	Erzieher
+højst	höchstens; höchst
+forblive	bleiben
+skærpe	verschärfen
+fremstå	erscheinen, wirken
+afstemning	Abstimmung
+synlig	sichtbar
+spænde	spannen; schnallen
+temmelig	ziemlich
+orkester	Orchester
+højskole	Volkshochschule (Heimvolkshochschule)
+finanskrise	Finanzkrise
+digt	Gedicht
+analytiker	Analyst
+forbund	Verband
+univers	Universum
+ingenting	nichts
+drama	Drama
+menneskerettighed	Menschenrecht
+standse	anhalten, stoppen
+økonom	Ökonom
+kompetence	Kompetenz
+smerte	Schmerz
+underholde	unterhalten
+indebære	bedeuten, mit sich bringen
+tempo	Tempo
+test	Test
+moralsk	moralisch
+organisere	organisieren
+fjende	Feind
+oven	oben (ovenpå = oben)
+uddele	verteilen
+forpligte	verpflichten
+formulere	formulieren
+usikkerhed	Unsicherheit
+islam	Islam
+brugt	gebraucht
+skulder	Schulter
+begrundelse	Begründung
+æg	Ei
+stram	straff, eng
+bombe	Bombe
+kammerat	Kamerad, Kumpel
+jødisk	jüdisch
+meningsmåling	Meinungsumfrage
+hælde	gießen
+præstation	Leistung
+pakke	Paket; packen
+hals	Hals
+spænding	Spannung
+bide	beißen
+beholde	behalten
+enighed	Einigkeit
+forbedring	Verbesserung
+gavn	Nutzen
+sko	Schuh
+bølge	Welle
+glide	gleiten, rutschen
+drøfte	erörtern, besprechen
+svinge	schwingen; abbiegen
+formel	formell; Formel
+bekæmpe	bekämpfen
+beklage	bedauern; sich beschweren
+forrige	vorig
+skæv	schief
+union	Union
+lækker	lecker; schick
+barnebarn	Enkelkind
+årevis	jahrelang (i årevis)
+prioritere	priorisieren
+overvejelse	Überlegung
+uheldig	unglücklich, ungünstig
+respektere	respektieren
+demonstrere	demonstrieren
+ambassadør	Botschafter
+folkelig	volkstümlich
+herfra	von hier
+gennemgå	durchgehen; durchmachen
+grå	grau
+midlertidig	vorübergehend
+katastrofe	Katastrophe
+mave	Bauch, Magen
+sydlig	südlich
+kollektiv	kollektiv
+fotograf	Fotograf
+rydde	aufräumen, räumen
+skubbe	schieben, schubsen
+smart	schick; schlau
+udsendelse	Sendung
+skidt	schlecht, mies
+sommerhus	Ferienhaus
+kræft	Krebs (Krankheit)
+tilbringe	verbringen
+fjernsyn	Fernsehen
+teste	testen
+efterspørgsel	Nachfrage
+sædvanlig	gewöhnlich, üblich
+unik	einzigartig
+justitsminister	Justizminister
+ane	ahnen
+middag	Mittag; Abendessen
+overføre	übertragen, überweisen
+rygte	Gerücht; Ruf
+folkeafstemning	Volksabstimmung
+galleri	Galerie
+åbning	Öffnung; Eröffnung
+and	Ente
+indtjening	Einnahmen
+pligt	Pflicht
+kilogram	Kilogramm
+mistanke	Verdacht
+revolution	Revolution
+møbel	Möbel
+ånd	Geist
+klima	Klima
+klæde	stehen (Kleidung); kleiden
+nutid	Gegenwart
+falsk	falsch, gefälscht
+forsigtig	vorsichtig
+sammenligning	Vergleich
+nordlig	nördlich
+automatisk	automatisch
+snyde	betrügen, schummeln
+forhåbentlig	hoffentlich
+rose	loben; Rose
+eksport	Export
+dato	Datum
+svigte	im Stich lassen
+bemærkning	Bemerkung
+betaling	Bezahlung
+etape	Etappe
+overblik	Überblick
+passere	passieren
+kæde	Kette
+realistisk	realistisch
+rekord	Rekord
+flere	mehrere; mehr
+barndom	Kindheit
+forlange	verlangen
+ytringsfrihed	Meinungsfreiheit
+hive	ziehen, zerren
+anlægge	anlegen
+fjor	letztes Jahr (i fjor)	i fjor
+forudse	voraussehen
+lag	Schicht
+fagforening	Gewerkschaft
+data	Daten
+supermarked	Supermarkt
+passende	passend
+kniv	Messer
+beskrivelse	Beschreibung
+dokument	Dokument
+kø	Schlange (Warteschlange)
+genstand	Gegenstand
+genre	Genre
+kors	Kreuz
+skal	Schale
+kongres	Kongress
+mesterskab	Meisterschaft
+angst	Angst
+villig	bereit, willig
+overflade	Oberfläche
+mandlig	männlich
+kommunikation	Kommunikation
+lykke	Glück
+kombination	Kombination
+skygge	Schatten
+adskille	trennen
+anonym	anonym
+polsk	polnisch
+fantasi	Fantasie
+opfordring	Aufforderung
+fornem	vornehm
+straffe	bestrafen
+huse	beherbergen
+pointe	Pointe, Punkt
+beretning	Bericht
+forvaltning	Verwaltung
+kommerciel	kommerziell
+tand	Zahn
+nøjagtig	genau
+video	Video
+hensigt	Absicht
+skyldig	schuldig
+tilgang	Ansatz; Zugang
+regime	Regime
+indsigt	Einsicht
+fødevare	Lebensmittel
+koncept	Konzept
+advarsel	Warnung
+palæstinensisk	palästinensisch
+kapitel	Kapitel
+blæse	blasen; wehen
+forvandle	verwandeln
+grav	Grab; Graben
+fremad	vorwärts
+adfærd	Verhalten
+irakisk	irakisch
+komponist	Komponist
+redaktion	Redaktion
+humor	Humor
+mørke	Dunkelheit
+hemmelighed	Geheimnis
+lastbil	Lastwagen
+udenrigsministerium	Außenministerium
+afskaffe	abschaffen
+overlade	überlassen
+definere	definieren
+banke	klopfen; schlagen
+nervøs	nervös
+målmand	Torwart
+anføre	anführen
+alkohol	Alkohol
+velfærd	Wohlfahrt, Wohlstand
+dum	dumm
+kor	Chor
+olympisk	olympisch
+rådgiver	Berater
+smitte	anstecken
+forlig	Vergleich, Einigung
+forsikring	Versicherung
+kineser	Chinese
+ambitiøs	ehrgeizig
+besætte	besetzen
+værksted	Werkstatt
+indlægge	einliefern (ins Krankenhaus)
+fritid	Freizeit
+gennemsnitlig	durchschnittlich
+trist	traurig
+udgivelse	Veröffentlichung
+orientere	informieren; orientieren
+stik	Stich; Stecker
+rigelig	reichlich
+udbud	Angebot
+skøn	schön, herrlich
+uenig	uneinig
+mistænke	verdächtigen
+vred	wütend, böse
+beregne	berechnen
+temperatur	Temperatur
+efterlyse	suchen (lassen), fahnden nach
+bevidsthed	Bewusstsein
+kong	König (vor Namen: Kong Frederik)
+herske	herrschen
+favorit	Favorit
+iføre	anziehen, kleiden
+overstå	überstehen, hinter sich bringen
+kat	Katze
+lighed	Ähnlichkeit; Gleichheit
+portræt	Porträt
+myte	Mythos
+videnskab	Wissenschaft
+helt	Held; ganz, völlig
+afrikansk	afrikanisch
+afgang	Abfahrt, Abflug
+berøre	berühren
+angriber	Angreifer, Stürmer
+irritere	ärgern, irritieren
+påtage	übernehmen (påtage sig)
+indeks	Index
+terror	Terror
+litterær	literarisch
+glimrende	glänzend, ausgezeichnet
+sælger	Verkäufer
+genkende	wiedererkennen
+vogn	Wagen
+streg	Strich
+etisk	ethisch
+strække	strecken
+villa	Einfamilienhaus, Villa
+tusindvis	zu Tausenden (i tusindvis)
+undlade	unterlassen
+ballade	Ärger, Krach; Ballade
+beregning	Berechnung
+rådgive	beraten
+slukke	ausschalten; löschen
+almen	allgemein
+nytår	Neujahr, Silvester
+såre	verletzen
+storby	Großstadt
+alting	alles
+arbejdsløs	arbeitslos
+sans	Sinn
+eftersom	da, weil
+mandskab	Mannschaft, Besatzung
+hellig	heilig
+strategisk	strategisch
+græde	weinen
+magasin	Magazin; Kaufhaus
+vågne	aufwachen
+citere	zitieren
+egn	Gegend
+underskrive	unterschreiben
+gylden	golden
+ekstraordinær	außerordentlich
+tjekke	checken, prüfen
+lyse	leuchten
+kategori	Kategorie
+kartoffel	Kartoffel
+hoppe	hüpfen, springen
+lig	Leiche
+enestående	einzigartig
+rektor	Rektor, Schulleiter
+antyde	andeuten
+bryst	Brust
+tusinde	tausend
+digter	Dichter
+insistere	bestehen auf
+formue	Vermögen
+administrativ	administrativ
+ko	Kuh
+ubehagelig	unangenehm
+indstilling	Einstellung
+rå	roh
+overenskomst	Tarifvertrag; Abkommen
+areal	Fläche
+indisk	indisch
+permanent	dauerhaft
+kyst	Küste
+cykle	Fahrrad fahren
+utilfreds	unzufrieden
+kryds	Kreuz; Kreuzung
+stramme	straffen, verschärfen
+ligegyldig	gleichgültig
+veje	wiegen
+mental	mental
+forgæves	vergeblich
+palæstinenser	Palästinenser
+munk	Mönch
+fredelig	friedlich
+symbol	Symbol
+efterforskning	Ermittlung
+udsagn	Aussage
+afgive	abgeben
+fødsel	Geburt
+forhandler	Händler; Verhandler
+mode	Mode
+skandale	Skandal
+underholdning	Unterhaltung
+forske	forschen
+derfra	von dort
+tråd	Faden
+tilpasse	anpassen
+agent	Agent
+flugt	Flucht
+rådgivning	Beratung
+hermed	hiermit
+oplagt	naheliegend; gut aufgelegt
+uheld	Pech; Missgeschick
+tilgængelig	zugänglich, verfügbar
+højesteret	Oberster Gerichtshof
+helhed	Ganzes (i sin helhed = im Ganzen)
+kursus	Kurs
+tilknytte	anschließen, angliedern
+opretholde	aufrechterhalten
+isolere	isolieren
+rense	reinigen
+hud	Haut
+rederi	Reederei
+afhænge	abhängen
+måling	Messung
+anvendelse	Anwendung
+åbenlys	offensichtlich
+fascinere	faszinieren
+derhjemme	zu Hause
+længde	Länge
+hvorfra	woher
+gas	Gas
+affære	Affäre
+gen	Gen
+myrde	ermorden
+integrere	integrieren
+erindring	Erinnerung
+elegant	elegant
+omgive	umgeben
+opskrift	Rezept
+finanslov	Haushaltsgesetz
+kælder	Keller
+indgreb	Eingriff
+ambassade	Botschaft
+afdød	verstorben
+udefra	von außen
+forsikre	versichern
+regn	Regen
+forfærdelig	furchtbar
+original	originell; Original
+knuse	zerquetschen; drücken (umarmen)
+tilsammen	zusammen, insgesamt
+tilmed	obendrein
+oprør	Aufruhr, Aufstand
+anbringe	anbringen, unterbringen
+beskyttelse	Schutz
+udmærket	ausgezeichnet
+ærgerlig	ärgerlich
+elite	Elite
+sanktion	Sanktion
+lidelse	Leiden
+eksemplar	Exemplar
+målrettet	zielgerichtet
+folketingsmedlem	Parlamentsabgeordneter
+flad	flach
+håndværker	Handwerker
+semifinale	Halbfinale
+pårørende	Angehörige(r)
+affald	Abfall, Müll
+gifte	verheiraten (gifte sig = heiraten)
+sandsynlig	wahrscheinlich
+skønt	obwohl
+mælk	Milch
+nøgle	Schlüssel
+svække	schwächen
+formidle	vermitteln
+afbryde	unterbrechen
+grim	hässlich
+flod	Fluss; Flut
+brite	Brite
+underlig	seltsam
+variere	variieren
+brød	Brot
+redskab	Werkzeug, Gerät
+flag	Fahne, Flagge
+indgang	Eingang
+tilfredsstille	zufriedenstellen
+base	Basis, Stützpunkt
+maler	Maler
+egenskab	Eigenschaft
+gennembrud	Durchbruch
+kunstig	künstlich
+færge	Fähre
+antage	annehmen
+illustrere	veranschaulichen
+røveri	Raub, Überfall
+færd	Fahrt; i fuld færd med = voll dabei
+indse	einsehen
+ventetid	Wartezeit
+uro	Unruhe
+kerne	Kern
+klode	Erdball
+kok	Koch
+udstyre	ausstatten
+smal	schmal
+skulptur	Skulptur
+suveræn	souverän
+fornøjelse	Vergnügen
+indkomst	Einkommen
+modsat	entgegengesetzt; umgekehrt
+sind	Gemüt, Sinn
+gammeldags	altmodisch
+kontant	bar
+forene	vereinen
+argumentere	argumentieren
+forstærke	verstärken
+idræt	Sport
+instrument	Instrument
+varetage	wahrnehmen, sich kümmern um
+ægtepar	Ehepaar
+berette	berichten
+toilet	Toilette
+ansættelse	Anstellung
+serbisk	serbisch
+rask	gesund
+jurist	Jurist
+general	General
+historiker	Historiker
+forside	Titelseite; Vorderseite
+ansat	angestellt; Angestellter
+fornuft	Vernunft
+langsigtet	langfristig
+friste	verlocken
+voldelig	gewalttätig
+bar	Bar; bloß, nackt
+kristendom	Christentum
+aggressiv	aggressiv
+forme	formen
+bydel	Stadtteil
+mønster	Muster
+hvile	ruhen
+psykolog	Psychologe
+sorg	Trauer, Kummer
+skikkelse	Gestalt
+realisere	verwirklichen
+anelse	Ahnung; eine Spur
+forebygge	vorbeugen
+opfinde	erfinden
+millimeter	Millimeter
+grin	Lachen; Spaß
+melodi	Melodie
+biskop	Bischof
+rude	Fensterscheibe
+misbrug	Missbrauch
+brun	braun
+urimelig	unangemessen, unfair
+medalje	Medaille
+prinsesse	Prinzessin
+fængsle	einsperren; fesseln
+kørsel	Fahren, Fahrt
+klippe	schneiden; Felsen
+personlighed	Persönlichkeit
+begejstring	Begeisterung
+forandre	verändern
+hjemmebane	Heimspiel; Heimvorteil
+tyveri	Diebstahl
+meddelelse	Mitteilung
+smør	Butter
+flyde	fließen; herumliegen
+redegørelse	Darlegung, Bericht
+forpligtelse	Verpflichtung
+øvelse	Übung
+imponere	beeindrucken
+skride	rutschen; abhauen
+skjul	Versteck
+knæ	Knie
+mølle	Mühle
+sønderjysk	südjütländisch
+velkendt	wohlbekannt
+udenfor	draußen; außerhalb
+indkøb	Einkauf
+lønmodtager	Arbeitnehmer
+pose	Tüte
+omegn	Umgebung
+bånd	Band
+skift	Wechsel; Schicht
+humør	Laune
+vedrørende	betreffend
+sne	Schnee
+analysere	analysieren
+frokost	Mittagessen
+sgu	verdammt (Verstärkung)
+forny	erneuern
+anerkendelse	Anerkennung
+bonde	Bauer
+kapacitet	Kapazität
+erklæring	Erklärung
+stress	Stress
+vænne	gewöhnen (vænne sig til)
+morsom	lustig
+små	klein (Plural)
+overgang	Übergang
+kop	Tasse
+instruere	anleiten; Regie führen
+fastsætte	festsetzen
+køn	Geschlecht; hübsch
+flittig	fleißig
+gårsdag	gestriger Tag
+stadigvæk	immer noch
+forfølge	verfolgen
+græs	Gras
+skriftlig	schriftlich
+principiel	grundsätzlich
+forsamlingshus	Gemeindehaus
+utallig	unzählig
+hjemland	Heimatland
+erfaren	erfahren
+undskyldning	Entschuldigung
+glemme	vergessen
+parkere	parken
+brutal	brutal
+arkiv	Archiv
+medlemskab	Mitgliedschaft
+stævne	Treffen; Wettkampf
+klassiker	Klassiker
+skandinavisk	skandinavisch
+stund	Weile
+student	Abiturient; Student
+anslå	schätzen
+kontroversiel	umstritten
+citat	Zitat
+aflyse	absagen
+ligeglad	gleichgültig (være ligeglad = egal sein)
+torv	Platz, Marktplatz
+etage	Stockwerk
+hylde	feiern, ehren; Regal
+skønne	schätzen
+tørre	trocknen; wischen
+kaptajn	Kapitän
+udmærke	auszeichnen
+trappe	Treppe
+finsk	finnisch
+verdensmester	Weltmeister
+pande	Stirn; Pfanne
+psykologisk	psychologisch
+oprører	Aufständischer, Rebell
+bremse	bremsen
+forelske	verlieben (forelske sig)
+arkitektur	Architektur
+streng	streng; Saite
+løgn	Lüge
+skildre	schildern
+ledighed	Arbeitslosigkeit
+konto	Konto
+vejledning	Anleitung; Beratung
+tilføre	zuführen
+stabil	stabil
+tvivlsom	zweifelhaft
+iværksætte	in die Wege leiten
+eksamen	Prüfung, Examen
+overgå	übertreffen; übergehen
+hade	hassen
+manuskript	Manuskript; Drehbuch
+problematisk	problematisch
+håndfuld	Handvoll
+tidsskrift	Zeitschrift
+tilknytning	Verbindung, Bindung
+sandsynlighed	Wahrscheinlichkeit
+blok	Block
+jævn	eben, gleichmäßig
+snes	zwanzig Stück, Stiege
+teknologisk	technologisch
+begrænsning	Begrenzung
+talrig	zahlreich
+sætning	Satz
+ofre	opfern
+valuta	Währung
+anmelder	Kritiker, Rezensent
+tryghed	Geborgenheit, Sicherheit
+tydeligvis	offensichtlich
+kåre	küren, wählen
+grundlov	Verfassung, Grundgesetz
+revisor	Wirtschaftsprüfer
+eksplodere	explodieren
+motion	Bewegung, Sport
+kendsgerning	Tatsache
+fattigdom	Armut
+demonstrant	Demonstrant
+allé	Allee
+gravid	schwanger
+betegnelse	Bezeichnung
+plakat	Plakat
+fund	Fund
+identificere	identifizieren
+mindske	verringern
+pind	Stock, Stäbchen
+pålægge	auferlegen; Aufschnitt (pålæg)
+uenighed	Uneinigkeit
+tåle	vertragen, ertragen
+fornemme	spüren, wahrnehmen
+celle	Zelle
+vest	Westen; Weste
+tilsætte	hinzufügen
+præg	Prägung, Gepräge
+rus	Rausch; Erstsemester
+ked	traurig (ked af det); leid (ked af = leid sein)
+kompromis	Kompromiss
+sofa	Sofa
+hat	Hut
+fotografi	Fotografie
+demokrat	Demokrat
+dokumentation	Dokumentation
+bænk	Bank (Sitzbank)
+fremtrædende	prominent
+halvår	Halbjahr
+nød	Nuss; Not
+angive	angeben
+krydse	kreuzen, überqueren
+væsen	Wesen
+pas	Pass
+ære	Ehre
+alverden	alle Welt
+bæredygtig	nachhaltig
+erkendelse	Erkenntnis
+borgerkrig	Bürgerkrieg
+hyppig	häufig
+udskyde	verschieben
+sponsor	Sponsor
+etablering	Gründung
+arv	Erbe
+genere	stören
+gigantisk	gigantisch
+udskrive	ausdrucken; entlassen (Krankenhaus)
+sår	Wunde
+peber	Pfeffer
+værktøj	Werkzeug
+øjeblikkelig	sofortig
+ophæve	aufheben
+tvivle	zweifeln
+bakke	Hügel; Tablett
+forberedelse	Vorbereitung
+grønlandsk	grönländisch
+forsyne	versorgen
+oversættelse	Übersetzung
+atmosfære	Atmosphäre
+markedsføring	Marketing
+enlig	alleinstehend
+nul	null
+lovlig	legal
+besættelse	Besatzung, Besetzung
+bande	Bande; fluchen
+latter	Gelächter
+kaos	Chaos
+skeptisk	skeptisch
+benzin	Benzin
+barsk	rau, hart
+planlægning	Planung
+sproglig	sprachlich
+uskyldig	unschuldig
+centralbank	Zentralbank
+ydre	äußere(r)
+dimension	Dimension
+dæk	Reifen; Deck
+iransk	iranisch
+uendelig	unendlich
+mag	Gemütlichkeit (i ro og mag = in aller Ruhe)
+bogstavelig	buchstäblich
+bøje	beugen, biegen
+individ	Individuum
+disciplin	Disziplin
+vrede	Zorn, Wut
+ægtefælle	Ehepartner
+arbejder	Arbeiter
+forlængelse	Verlängerung
+uhyggelig	unheimlich
+kompliceret	kompliziert
+byret	Amtsgericht
+dirigent	Dirigent
+magtfuld	mächtig
+tryk	Druck
+kommunistisk	kommunistisch
+blodig	blutig
+øst	Osten
+formode	vermuten
+protestere	protestieren
+debut	Debüt
+taske	Tasche
+udseende	Aussehen
+forfatning	Verfassung; Zustand
+hastighed	Geschwindigkeit
+gudstjeneste	Gottesdienst
+fortolkning	Auslegung, Interpretation
+bekæmpelse	Bekämpfung
+bakterie	Bakterie
+besvare	beantworten
+rund	rund
+tillige	zugleich, außerdem
+moral	Moral
+vedvarende	anhaltend
+øve	üben
+chokere	schockieren
+vaske	waschen
+fremlægge	vorlegen
+systematisk	systematisch
+syge	Krankheit, Seuche
+ansøger	Bewerber
+ivrig	eifrig
+medbringe	mitbringen
+overordnet	übergeordnet
+rige	Reich
+forrest	vorderste(r), ganz vorne
+vindmølle	Windrad
+besværlig	mühsam
+optimistisk	optimistisch
+filosofi	Philosophie
+selvmord	Selbstmord
+storm	Sturm
+pille	schälen; Tablette
+agere	agieren
+delstat	Bundesland
+udbygge	ausbauen
+følsom	empfindlich
+nordjysk	nordjütländisch
+fatte	begreifen
+spring	Sprung
+samvittighed	Gewissen
+sær	seltsam, eigenartig
+sky	Wolke; scheu
+teenager	Teenager
+hjemlig	heimisch
+bestræbelse	Bestrebung
+skuffelse	Enttäuschung
+guitar	Gitarre
+hjemløs	obdachlos
+hidtidig	bisherig
+forgænger	Vorgänger
+minimum	Minimum
+misbruge	missbrauchen
+appellere	appellieren
+optimisme	Optimismus
+styrte	stürzen
+kjole	Kleid
+køretøj	Fahrzeug
+bage	backen
+splitte	spalten
+fyring	Entlassung
+blomstre	blühen
+udmelding	Ankündigung, Aussage
+bestemmelse	Bestimmung
+kristelig	christlich
+imens	inzwischen, währenddessen
+kost	Kost, Ernährung; Besen
+vanvittig	wahnsinnig
+ur	Uhr
+uventet	unerwartet
+landevej	Landstraße
+introducere	einführen
+københavner	Kopenhagener
+eksistens	Existenz
+medmindre	es sei denn
+europæer	Europäer
+brække	brechen
+cigaret	Zigarette
+udstede	ausstellen
+inflation	Inflation
+synd	Sünde; schade (det er synd)
+styrelse	Behörde, Amt
+gods	Gut; Güter
+derude	da draußen
+skrige	schreien
+besejre	besiegen
+søvn	Schlaf
+fundament	Fundament
+overensstemmelse	Übereinstimmung
+republik	Republik
+bagud	zurück, im Rückstand
+frygtelig	schrecklich
+bureau	Büro
+forståelig	verständlich
+irsk	irisch
+aldeles	völlig
+metal	Metall
+specifik	spezifisch
+skive	Scheibe
+socialistisk	sozialistisch
+absurd	absurd
+fase	Phase
+strømme	strömen
+forsikringsselskab	Versicherungsgesellschaft
+åbenhed	Offenheit
+informere	informieren
+forsvarer	Verteidiger
+gryde	Topf
+tøve	zögern
+spørgsmålstegn	Fragezeichen
+hjul	Rad
+spekulere	nachgrübeln; spekulieren
+messe	Messe
+englænder	Engländer
+kølvand	Kielwasser (i kølvandet på = im Gefolge von)
+snæver	eng
+måltid	Mahlzeit
+købmand	Kaufmann; Lebensmittelladen
+fleksibel	flexibel
+fordoble	verdoppeln
+ligestilling	Gleichstellung
+våd	nass
+begrunde	begründen
+fodboldspiller	Fußballspieler
+eksperiment	Experiment
+nytte	nützen; Nutzen
+nakke	Nacken
+tilsyn	Aufsicht
+omsorg	Fürsorge
+serber	Serbe
+frustration	Frustration
+konstruktion	Konstruktion
+menu	Menü, Speisekarte
+dødsfald	Todesfall
+mellemrum	Zwischenraum
+plage	plagen
+telt	Zelt
+psykiatrisk	psychiatrisch
+blokere	blockieren
+ideologisk	ideologisch
+udfald	Ausgang, Ergebnis
+duft	Duft
+bryllup	Hochzeit
+knibe	kneifen
+syrisk	syrisch
+svensker	Schwede
+undvære	entbehren, verzichten auf
+vandre	wandern
+brille	Brille (briller)
+omgå	umgehen
+aspekt	Aspekt
+erobre	erobern
+bagside	Rückseite
+fremstilling	Herstellung; Darstellung
+kær	lieb
+hæfte	heften; Heft
+pol	Pol
+regere	regieren
+pinlig	peinlich
+skønhed	Schönheit
+mystisk	mysteriös
+kronprins	Kronprinz
+pave	Papst
+cd	CD
+kølig	kühl
+naiv	naiv
+karakteristisk	charakteristisch
+rabat	Rabatt
+sti	Pfad, Weg
+gætte	raten
+norm	Norm
+kærlig	liebevoll
+udskifte	austauschen
+sinde	Sinn (have i sinde = vorhaben)
+afvente	abwarten
+engel	Engel
+islandsk	isländisch
+indbygge	einbauen
+moms	Mehrwertsteuer
+troværdighed	Glaubwürdigkeit
+undskylde	entschuldigen (undskyld! = Entschuldigung!)
+forsinke	verzögern (forsinket = verspätet)
+paragraf	Paragraf
+bryggeri	Brauerei
+annoncere	ankündigen; inserieren
+tømme	leeren
+tilslutte	anschließen
+sekretær	Sekretär(in)
+herlig	herrlich
+kompleks	komplex
+rune	Rune
+anklager	Staatsanwalt; Ankläger
+æble	Apfel
+stole	vertrauen (stole på)
+overvåge	überwachen
+høste	ernten
+fordeling	Verteilung
+læserbrev	Leserbrief
+forurening	Umweltverschmutzung
+østre	östlich, Ost-
+jazz	Jazz
+hygge	es sich gemütlich machen; Gemütlichkeit
+belgisk	belgisch
+svømme	schwimmen
+cyklist	Radfahrer
+indhente	einholen
+skuespil	Schauspiel
+stift	Bistum
+konvention	Konvention
+slæbe	schleppen
+grave	graben
+homoseksuel	homosexuell
+australsk	australisch
+desperat	verzweifelt
+statsborger	Staatsbürger
+elektrisk	elektrisch
+besiddelse	Besitz
+pilot	Pilot
+vanskelighed	Schwierigkeit
+akademisk	akademisch
+entré	Flur, Diele; Eintritt
+inkludere	einschließen
+kemisk	chemisch
+regulere	regulieren
+kopi	Kopie
+selvtillid	Selbstvertrauen
+tragisk	tragisch
+helvede	Hölle
+smelte	schmelzen
+uhyre	ungeheuer
+vældig	gewaltig; sehr
+el	Strom (Elektrizität); Erle
+komedie	Komödie
+præsidentvalg	Präsidentschaftswahl
+forhenværende	ehemalig
+afprøve	ausprobieren
+tørklæde	Halstuch; Kopftuch
+symptom	Symptom
+dagligdag	Alltag
+helbred	Gesundheit
+kendetegne	kennzeichnen
+skab	Schrank
+vidunderlig	wunderbar
+nøgen	nackt
+infrastruktur	Infrastruktur
+delvis	teilweise
+italiener	Italiener
+belaste	belasten
+fotografere	fotografieren
+moderat	gemäßigt
+asylansøger	Asylbewerber
+garantere	garantieren
+fremføre	vorbringen; vortragen
+sangerinde	Sängerin
+port	Tor
+lukket	geschlossen
+sprænge	sprengen
+østlig	östlich
+eksperimentere	experimentieren
+uddybe	vertiefen, näher erläutern
+pund	Pfund
+slagsmål	Schlägerei
+konsekvent	konsequent
+plet	Fleck
+hovedkvarter	Hauptquartier
+indlysende	einleuchtend, offensichtlich
+løber	Läufer
+befri	befreien
+sukker	Zucker
+tilstedeværelse	Anwesenheit
+danser	Tänzer
+gavne	nützen
+gerningsmand	Täter
+bitter	bitter
+rør	Rohr; Schilf
+opkøb	Aufkauf, Übernahme
+klinik	Klinik
+lugte	riechen
+ensom	einsam
+henne	dort (hvor henne? = wo?)
+lager	Lager
+grøntsag	Gemüse
+kage	Kuchen
+indretning	Einrichtung
+åndelig	geistig, spirituell
+ekstern	extern
+humanitær	humanitär
+forbillede	Vorbild
+basis	Basis
+tæppe	Decke; Teppich
+bio	Kino
+klappe	klatschen; streicheln
+hærværk	Vandalismus
+grundlægge	gründen
+sågar	sogar
+venskab	Freundschaft
+fynbo	Bewohner von Fünen
+offensiv	offensiv
+depression	Depression
+indbyrdes	gegenseitig
+sogn	Kirchspiel, Pfarrei
+behagelig	angenehm
+hovedsagelig	hauptsächlich
+rasende	rasend, wütend
+bebude	ankündigen
+tragedie	Tragödie
+strejke	Streik
+betjene	bedienen
+fravær	Abwesenheit
+rapportere	berichten
+hyre	anheuern
+republikaner	Republikaner
+ledsage	begleiten
+parkeringsplads	Parkplatz
+specialisere	spezialisieren
+vagt	Wache; Dienst
+instruktion	Anleitung; Regie
+endog	sogar
+højdepunkt	Höhepunkt
+ordne	ordnen, erledigen
+datterselskab	Tochtergesellschaft
+musical	Musical
+spiseskefuld	Esslöffel (Menge)
+skrap	streng, hart
+omkomme	umkommen
+diplomatisk	diplomatisch
+fordom	Vorurteil
+forvirre	verwirren
+gris	Schwein
+hindre	hindern
+matematik	Mathematik
+erfare	erfahren
+portion	Portion
+godkendelse	Genehmigung
+satsning	Investition, Vorstoß
+flydende	flüssig; fließend
+bistand	Hilfe; Sozialhilfe
+bevilling	Bewilligung
+trin	Stufe; Schritt
+langvarig	langwierig
+diagnose	Diagnose
+låse	abschließen
+blind	blind
+neutral	neutral
+østrigsk	österreichisch
+lampe	Lampe
+lønning	Lohn, Gehalt
+skilt	Schild
+kriterium	Kriterium
+indirekte	indirekt
+tankegang	Denkweise
+sølv	Silber
+klient	Klient
+rase	toben, wüten
+trøje	Pullover; Trikot
+vinkel	Winkel
+konkurs	bankrott, pleite
+krænke	kränken; verletzen
+lange	reichen
+bevilge	bewilligen
+prognose	Prognose
+dybde	Tiefe
+spå	vorhersagen
+passiv	passiv
+modtager	Empfänger
+bedømme	beurteilen
+røver	Räuber
+diplomat	Diplomat
+spore	aufspüren
+race	Rasse
+bøn	Bitte; Gebet
+forstyrre	stören
+skelne	unterscheiden
+nødvendighed	Notwendigkeit
+regulær	regelrecht
+voks	Wachs
+kede	langweilen (kede sig = sich langweilen)
+frede	unter Schutz stellen
+skinne	scheinen, glänzen; Schiene
+komplet	komplett
+illegal	illegal
+filosof	Philosoph
+frustrere	frustrieren
+tortur	Folter
+hændelse	Vorfall
+fisker	Fischer
+afsløring	Enthüllung
+importere	importieren
+hjort	Hirsch
+fortryde	bereuen
+check	Scheck
+arbejdsmiljø	Arbeitsumfeld
+hastig	hastig, schnell
+bid	Biss; Bissen
+reduktion	Reduzierung
+chok	Schock
+ovn	Ofen
+gebyr	Gebühr
+efterskole	Internatsschule (8.–10. Klasse)
+heftig	heftig
+motivere	motivieren
+veteran	Veteran
+skatteyder	Steuerzahler
+pistol	Pistole
+ost	Käse
+hash	Haschisch
+forhøje	erhöhen
+bogstav	Buchstabe
+spekulation	Spekulation
+tolke	dolmetschen; deuten
+logik	Logik
+chokolade	Schokolade
+snige	schleichen (snige sig)
+indsætte	einsetzen; einzahlen
+revy	Revue
+schweizisk	schweizerisch
+grafik	Grafik
+triumf	Triumph
+kommunist	Kommunist
+fortæller	Erzähler
+distance	Distanz
+bad	Bad; Dusche
+trives	gedeihen; sich wohlfühlen
+århusiansk	aus Aarhus
+ulighed	Ungleichheit
+synke	sinken; schlucken
+taber	Verlierer
+uklar	unklar
+forsinkelse	Verspätung
+fysik	Physik
+opgøre	ermitteln, berechnen
+karakterisere	charakterisieren
+kørekort	Führerschein
+æde	fressen
+udsat	gefährdet; verschoben
+troværdig	glaubwürdig
+festlig	festlich; lustig
+sårbar	verletzlich
+dagpenge	Arbeitslosengeld
+ideologi	Ideologie
+knække	knacken, brechen
+teoretisk	theoretisch
+opløse	auflösen
+skål	Schüssel; prost! (skål!)
+efterfølge	nachfolgen
+gennemgang	Durchsicht, Überprüfung
+akkurat	genau
+nysgerrig	neugierig
+opløsning	Auflösung
+parre	paaren
+fræk	frech
+svaghed	Schwäche
+løg	Zwiebel
+derpå	darauf
+ankomst	Ankunft
+dæmpe	dämpfen
+sy	nähen
+apparat	Apparat, Gerät
+smykke	Schmuckstück
+beskyldning	Beschuldigung
+iværksætter	Unternehmer, Gründer
+tennis	Tennis
+dannelse	Bildung
+helikopter	Hubschrauber
+skrift	Schrift
+kravle	krabbeln, klettern
+husleje	Miete
+ugentlig	wöchentlich
+klinisk	klinisch
+fundamental	grundlegend
+klaver	Klavier
+præmis	Prämisse
+opbygning	Aufbau
+færdes	unterwegs sein, verkehren
+privatliv	Privatleben
+folde	falten
+overtrædelse	Verstoß
+føje	fügen; nachgeben
+ulykkelig	unglücklich
+autoritet	Autorität
+moden	reif
+frist	Frist
+aktivist	Aktivist
+markedsføre	vermarkten
+lyve	lügen
+overvære	beiwohnen
+voldtægt	Vergewaltigung
+skepsis	Skepsis
+kylling	Hähnchen
+livsstil	Lebensstil
+kontinent	Kontinent
+overskride	überschreiten
+uvis	ungewiss
+globalisering	Globalisierung
+had	Hass
+ry	Ruf
+facade	Fassade
+konstruktiv	konstruktiv
+føring	Führung
+begribe	begreifen
+bod	Bude, Stand
+gren	Ast, Zweig
+eksotisk	exotisch
+te	Tee
+kalender	Kalender
+vinge	Flügel
+drukne	ertrinken
+vending	Wendung
+eksplosion	Explosion
+juble	jubeln
+charmerende	charmant
+kommissær	Kommissar
+kirkegård	Friedhof
+sympati	Sympathie
+fryse	frieren; einfrieren
+forfatterskab	Gesamtwerk (eines Autors)
+dynamisk	dynamisch
+indblik	Einblick
+alarm	Alarm
+hakke	hacken
+intelligent	intelligent
+procedure	Verfahren
+overhale	überholen
+snuppe	schnappen
+bytte	tauschen; Beute
+referere	referieren, verweisen
+symfoniorkester	Sinfonieorchester
+entydig	eindeutig
+le	lachen
+iraker	Iraker
+foregående	vorhergehend
+motorcykel	Motorrad
+navnlig	namentlich, besonders
+velfærdssamfund	Wohlfahrtsgesellschaft
+omstridt	umstritten
+tunge	Zunge
+svømmehal	Schwimmhalle
+røg	Rauch
+lun	lau, mild; gemütlich
+due	Taube
+forårsage	verursachen
+koncentration	Konzentration
+nævn	Ausschuss, Behörde
+obligatorisk	obligatorisch, Pflicht-
+in	in, angesagt
+blank	blank, glänzend
+journalistik	Journalismus
+støj	Lärm
+sats	Satz (Musik); Tarif
+sæd	Saat; Samen
+geografisk	geografisch
+fad	Schüssel; Fass
+diskret	diskret
+samvær	Beisammensein; Umgang (mit Kind)
+ubetinget	unbedingt
+gensidig	gegenseitig
+landmand	Landwirt
+slappe	entspannen (slappe af)
+fortrolig	vertraulich; vertraut
+laboratorium	Labor
+overtræde	verstoßen gegen
+dyster	düster
+ideal	Ideal
+biografi	Biografie
+spejl	Spiegel
+tårn	Turm
+forurene	verschmutzen
+mønt	Münze
+assistent	Assistent
+stride	streiten
+erhverve	erwerben
+ovre	vorbei; drüben
+indvandring	Einwanderung
+værdig	würdig
+forsamling	Versammlung
+dagbog	Tagebuch
+kulde	Kälte
+sammenbrud	Zusammenbruch
+ambulance	Krankenwagen
+gæste	besuchen, zu Gast sein
+elendig	elend, miserabel
+canadisk	kanadisch
+kører	Fahrer
+magisk	magisch
+jakke	Jacke
+jage	jagen
+utilfredshed	Unzufriedenheit
+katastrofal	katastrophal
+værdifuld	wertvoll
+rat	Lenkrad
+anholdelse	Festnahme
+fratage	entziehen
+turisme	Tourismus
+nominere	nominieren
+sideløbende	parallel, gleichzeitig
+israeler	Israeli
+påske	Ostern
+zone	Zone
+stiv	steif
+sum	Summe
+mus	Maus
+svin	Schwein
+avanceret	fortgeschritten
+glimt	Schimmer; Augenzwinkern
+samspil	Zusammenspiel
+uacceptabel	inakzeptabel
+morder	Mörder
+belyse	beleuchten
+varsle	ankündigen
+køleskab	Kühlschrank
+fakultet	Fakultät
+markedsandel	Marktanteil
+fjerdedel	Viertel
+katalog	Katalog
+ignorere	ignorieren
+mest	am meisten; meist
+præsentation	Präsentation
+tilfredshed	Zufriedenheit
+pynte	schmücken
+såsom	wie zum Beispiel
+kunstværk	Kunstwerk
+arbejdsliv	Arbeitsleben
+sukke	seufzen
+anke	Berufung einlegen
+glædelig	erfreulich
+skynde	beeilen (skynde sig = sich beeilen)
+busk	Busch
+visuel	visuell
+tusind	tausend
+rytme	Rhythmus
+nære	hegen, nähren
+tjener	Kellner; Diener
+bagage	Gepäck
+trofast	treu
+installere	installieren
+kongehus	Königshaus
+pakistansk	pakistanisch
+misforståelse	Missverständnis
+velfærdsstat	Wohlfahrtsstaat
+tålmodighed	Geduld
+innovation	Innovation
+skala	Skala
+udendørs	draußen, im Freien
+sult	Hunger
+stolthed	Stolz
+venteliste	Warteliste
+ærgre	ärgern
+udbrud	Ausbruch
+fælde	fällen; Falle
+afsked	Abschied
+fornyelse	Erneuerung
+stege	braten
+muskel	Muskel
+bopæl	Wohnsitz
+fører	Führer; Fahrer
+apotek	Apotheke
+krævende	anspruchsvoll
+tåre	Träne
+grotesk	grotesk
+bunke	Haufen, Stapel
+ironisk	ironisch
+modig	mutig
+opdagelse	Entdeckung
+skadelig	schädlich
+kompetent	kompetent
+søskende	Geschwister
+koordinere	koordinieren
+sandelig	wahrlich
+afgå	abfahren; zurücktreten
+læne	lehnen
+rende	rennen
+taxa	Taxi
+drastisk	drastisch
+onkel	Onkel
+dykke	tauchen
+kolossal	kolossal
+karantæne	Quarantäne
+forøge	vergrößern, erhöhen
+retningslinje	Richtlinie
+bekymret	besorgt
+civilingeniør	Diplomingenieur
+fiasko	Fiasko
+asyl	Asyl
+panik	Panik
+cirkus	Zirkus
+forbeholde	vorbehalten
+mobil	mobil; Handy
+håbløs	hoffnungslos
+ejendomsmægler	Immobilienmakler
+krydre	würzen
+bekostning	Kosten (på bekostning af = auf Kosten von)
+farverig	farbenfroh
+gevaldig	gewaltig
+ruste	rosten; rüsten
+iagttager	Beobachter
+omhyggelig	sorgfältig
+overtale	überreden
+suppe	Suppe
+slagteri	Schlachterei
+kejser	Kaiser
+partifælle	Parteifreund
+renovere	renovieren
+legetøj	Spielzeug
+afsæt	Ausgangspunkt; Absprung
+ballet	Ballett
+håndtering	Umgang, Handhabung
+stilhed	Stille
+overflødig	überflüssig
+abort	Abtreibung; Fehlgeburt
+kronisk	chronisch
+samråd	Anhörung (im Parlament)
+comeback	Comeback
+stryge	streichen; bügeln
+suge	saugen
+nikke	nicken
+hvorpå	worauf
+kære	liebe(r) (Anrede: Kære Anna)
+støt	stetig
+utvivlsom	zweifellos
+paradis	Paradies
+munter	munter, fröhlich
+indehaver	Inhaber
+arrestere	verhaften
+besidde	besitzen
+novelle	Kurzgeschichte, Novelle
+tønde	Tonne, Fass
+forære	schenken
+trætte	ermüden
+akademi	Akademie
+indbyde	einladen
+udenrigspolitisk	außenpolitisch
+stald	Stall
+batteri	Batterie
+eksklusiv	exklusiv
+akademiker	Akademiker
+trang	Drang; Bedürfnis
+givetvis	gewiss
+orange	orange
+puste	pusten; keuchen
+justere	justieren, anpassen
+opdatere	aktualisieren
+variation	Variation
+håndværk	Handwerk
+opsætning	Inszenierung; Einrichtung
+golf	Golf
+spærre	sperren
+hit	Hit
+selvsagt	selbstverständlich
+banal	banal
+rocker	Rocker
+vag	vage
+kugle	Kugel
+fiske	fischen, angeln
+jæger	Jäger
+formulering	Formulierung
+borg	Burg
+brændstof	Kraftstoff
+usynlig	unsichtbar
+bilde	einbilden (bilde sig ind)
+hundredvis	zu Hunderten
+flamme	Flamme
+udbygning	Ausbau
+vove	wagen
+fortolke	interpretieren
+morgenmad	Frühstück
+tavshed	Schweigen
+overordne	überordnen
+spanier	Spanier
+overdrage	übergeben
+begravelse	Beerdigung
+human	human
+pop	Popmusik
+retfærdighed	Gerechtigkeit
+husstand	Haushalt
+poetisk	poetisch
+mangfoldighed	Vielfalt
+åbningstid	Öffnungszeit
+lettelse	Erleichterung
+ravn	Rabe
+middelalder	Mittelalter
+ordinær	ordentlich, gewöhnlich
+hærge	verwüsten
+giftig	giftig
+gidsel	Geisel
+brik	Spielfigur; Untersetzer
+sej	zäh; cool
+ulempe	Nachteil
+retorik	Rhetorik
+nyttig	nützlich
+grafisk	grafisch
+stresse	stressen
+berettige	berechtigen
+afslappet	entspannt
+fejle	fehlen (hvad fejler du?); scheitern
+raket	Rakete
+tallerken	Teller
+vestre	westlich, West-
+rengøring	Putzen, Reinigung
+varsel	Ankündigung; Vorzeichen
+misforstå	missverstehen
+badeværelse	Badezimmer
+opførsel	Benehmen
+agte	beabsichtigen; achten
+fortjeneste	Verdienst; Gewinn
+sejre	siegen
+genial	genial
+fanden	Teufel (fanden! = verdammt!)
+juletræ	Weihnachtsbaum
+får	Schaf
+låg	Deckel
+overlevelse	Überleben
+skotsk	schottisch
+løve	Löwe
+nedgang	Rückgang
+udenrigspolitik	Außenpolitik
+retfærdig	gerecht
+kreativitet	Kreativität
+hegn	Zaun
+solidaritet	Solidarität
+bedrift	Leistung; Betrieb
+besynderlig	sonderbar
+lærred	Leinwand
+berolige	beruhigen
+bonus	Bonus
+jordskælv	Erdbeben
+direktiv	Richtlinie
+spar	Pik (Karten)
+vers	Vers, Strophe
+loyal	loyal
+svæve	schweben
+kostbar	kostbar
+reserve	Reserve
+journalistisk	journalistisch
+klip	Schnitt
+urolighed	Unruhe
+hukommelse	Gedächtnis
+ombudsmand	Ombudsmann
+overtagelse	Übernahme
+robot	Roboter
+biologisk	biologisch
+afhandling	Abhandlung
+udstrækning	Ausdehnung, Ausmaß
+filminstruktør	Filmregisseur
+guitarist	Gitarrist
+mareridt	Albtraum
+opdrage	erziehen
+offentliggørelse	Veröffentlichung
+konfrontation	Konfrontation
+slide	schuften; abnutzen
+kontanter	Bargeld
+vedligeholdelse	Instandhaltung
+velstand	Wohlstand
+skadestue	Notaufnahme
+rode	wühlen; Unordnung machen
+rytmisk	rhythmisch
+døbe	taufen
+givet	gegeben; sicher
+motivation	Motivation
+opvækst	Aufwachsen, Kindheit
+forbudt	verboten
+sms	SMS
+piske	peitschen; schlagen (Sahne)
+æstetisk	ästhetisch
+sammenslutning	Zusammenschluss
+undertrykke	unterdrücken
+ryger	Raucher
+hvorledes	wie
+bekendtskab	Bekanntschaft
+tiger	Tiger
+vejlede	anleiten, beraten
+familiemedlem	Familienmitglied
+sigtelse	Anklage
+venstreorienteret	links (politisch)
+rødvin	Rotwein
+ombygning	Umbau
+uundgåelig	unvermeidlich
+forringe	verschlechtern
+oprindelse	Ursprung
+menneskehed	Menschheit
+planet	Planet
+færøsk	färöisch
+brasiliansk	brasilianisch
+variant	Variante
+ideel	ideal
+tunnel	Tunnel
+poesi	Poesie
+russer	Russe
+ufattelig	unfassbar
+tandlæge	Zahnarzt
+invitation	Einladung
+ualmindelig	ungewöhnlich
+forstander	Leiter, Vorsteher
+fordømme	verurteilen
+skrøbelig	zerbrechlich
+opholdstilladelse	Aufenthaltsgenehmigung
+afløser	Nachfolger; Aushilfe
+tredjeplads	dritter Platz
+udskiftning	Austausch; Auswechslung
+jernbane	Eisenbahn
+skjorte	Hemd
+smøre	schmieren; streichen
+tå	Zeh
+begejstret	begeistert
+menighed	Gemeinde
+arbejdsdag	Arbeitstag
+badminton	Badminton
+såfremt	sofern
+genskabe	wiederherstellen
+tomat	Tomate
+ophøre	aufhören
+pølse	Wurst
+kvæle	ersticken, erwürgen
+nedad	abwärts
+bål	Lagerfeuer
+dyd	Tugend
+spinkel	schmächtig, zart
+fiskeri	Fischerei
+kvart	Viertel
+nuance	Nuance
+indsat	Häftling
+intensiv	intensiv
+more	amüsieren (more sig)
+tavs	schweigsam, still
+påbegynde	beginnen
+veksle	wechseln
+målgruppe	Zielgruppe
+påvirkning	Einfluss
+import	Import
+nerve	Nerv
+imam	Imam
+terræn	Gelände
+baby	Baby
+egyptisk	ägyptisch
+snar	baldig
+last	Ladung; Laster
+skrivebord	Schreibtisch
+stimulere	anregen
+nødhjælp	Nothilfe
+hollænder	Niederländer
+imødekomme	entgegenkommen
+deraf	daraus, davon
+tilpas	passend; wohl (have det tilpas)
+cykling	Radfahren
+ris	Reis
+boks	Box, Kasten
+hektisk	hektisch
+installation	Installation
+tilfældighed	Zufall
+drøftelse	Erörterung
+overnatning	Übernachtung
+ingrediens	Zutat
+selvstændighed	Unabhängigkeit
+flåde	Flotte; Floß
+facon	Fasson, Form
+nederst	unterste(r), ganz unten
+bugt	Bucht
+rutine	Routine
+hilsen	Gruß
+distrikt	Bezirk
+skildring	Schilderung
+diskotek	Diskothek
+efterfølger	Nachfolger
+lillebror	kleiner Bruder
+læbe	Lippe
+tegner	Zeichner
+sympatisk	sympathisch
+mirakel	Wunder
+rationel	rational
+profet	Prophet
+abe	Affe
+glat	glatt
+frigøre	befreien, freisetzen
+fedt	Fett; toll (det er fedt)
+fuldkommen	vollkommen
+unødvendig	unnötig
+selvstyre	Selbstverwaltung
+skam	ja, doch (Verstärkung); Schande
+vande	gießen, bewässern
+gerning	Tat
+legende	Legende
+kulturhus	Kulturzentrum
+indimellem	ab und zu
+effektivitet	Effizienz
+brag	Knall
+eksportere	exportieren
+pumpe	pumpen
+bibel	Bibel
+iscenesætte	inszenieren
+klimaforandring	Klimawandel
+fiktion	Fiktion
+svamp	Pilz; Schwamm
+komiker	Komiker
+sindssyg	wahnsinnig
+popularitet	Beliebtheit
+udbredelse	Verbreitung
+gro	wachsen
+statsborgerskab	Staatsbürgerschaft
+cirkel	Kreis
+komité	Komitee
+underviser	Lehrkraft
+terrasse	Terrasse
+reparere	reparieren
+formandskab	Vorsitz
+hæl	Ferse; Absatz
+romersk	römisch
+rygning	Rauchen
+industriel	industriell
+politibetjent	Polizist
+tænkelig	denkbar
+observere	beobachten
+horisont	Horizont
+varig	dauerhaft
+tilbagegang	Rückgang
+legeplads	Spielplatz
+beundre	bewundern
+bronze	Bronze
+tankevækkende	nachdenklich stimmend
+beskidt	schmutzig
+følelsesmæssig	emotional
+kompensation	Entschädigung
+testamente	Testament
+koalition	Koalition
+lynhurtig	blitzschnell
+kansler	Kanzler
+benhård	knallhart
+stirre	starren
+greb	Griff
+udnyttelse	Ausnutzung
+værtshus	Kneipe
+materiel	materiell
+symfoni	Sinfonie
+invasion	Invasion
+kynisk	zynisch
+erotisk	erotisch
+beredskab	Bereitschaft
+sild	Hering
+pirat	Pirat
+ekspertise	Fachwissen
+fremkalde	hervorrufen; entwickeln (Film)
+humanistisk	geisteswissenschaftlich
+opsætte	aufschieben; aufstellen
+illusion	Illusion
+fjord	Förde, Fjord
+embedsmand	Beamter
+kuffert	Koffer
+omvende	bekehren
+vuggestue	Kinderkrippe
+støv	Staub
+avancere	aufsteigen
+nedbryde	abbauen, zersetzen
+feje	fegen
+hyldest	Huldigung
+hensigtsmæssig	zweckmäßig
+fortov	Bürgersteig
+elefant	Elefant
+sluge	schlucken, verschlingen
+japaner	Japaner
+slægt	Familie, Geschlecht
+kemi	Chemie
+almindelighed	Allgemeinheit (i almindelighed = im Allgemeinen)
+hektar	Hektar
+lyserød	rosa
+oberst	Oberst
+kirkelig	kirchlich
+berygtet	berüchtigt
+forsømme	versäumen, vernachlässigen
+register	Register
+viking	Wikinger
+uforståelig	unverständlich
+tillæg	Zuschlag; Nachtrag
+betydningsfuld	bedeutend
+filme	filmen
+parlamentsvalg	Parlamentswahl
+afskedige	entlassen
+diktatur	Diktatur
+duel	Duell
+rand	Rand
+opsigtsvækkende	Aufsehen erregend
+sørgelig	traurig
+indfri	einlösen
+forbryder	Verbrecher
+vige	weichen
+udgå	ausgehen; wegfallen
+handler	Händler
+hvorimod	wohingegen
+fleksibilitet	Flexibilität
+fætter	Cousin
+acceptabel	akzeptabel
+gentagelse	Wiederholung
+virus	Virus
+hugge	hauen, hacken
+jura	Jura
+magte	schaffen, bewältigen
+forsvarlig	vertretbar
+kopiere	kopieren
+kendelse	Beschluss, Urteil
+kommunisme	Kommunismus
+hale	Schwanz
+opmuntre	aufmuntern
+asfalt	Asphalt
+kind	Wange
+frø	Frosch; Samen
+psykologi	Psychologie
+revidere	überarbeiten; prüfen
+orientering	Orientierung; Information
+saglig	sachlich
+jagte	jagen
+stakkels	arm (bedauernswert)
+halte	hinken
+polak	Pole
+øde	öde
+mormor	Großmutter (mütterlicherseits)
+ihærdig	beharrlich
+skub	Schubs
+bærbar	tragbar; Laptop
+ensomhed	Einsamkeit
+levetid	Lebensdauer
+kaotisk	chaotisch
+sammenhængende	zusammenhängend
+territorium	Territorium
+civilisation	Zivilisation
+montere	montieren
+urealistisk	unrealistisch
+bedsteforælder	Großelternteil
+knægt	Bursche; Bube (Karten)
+tromme	Trommel
+dernede	da unten
+samfundsmæssig	gesellschaftlich
+bivirkning	Nebenwirkung
+primitiv	primitiv
+spontan	spontan
+ødelæggelse	Zerstörung
+puls	Puls
+kvist	Zweig
+storebror	großer Bruder
+politimand	Polizist
+dyrlæge	Tierarzt
+opfindelse	Erfindung
+dal	Tal
+udveksle	austauschen
+redigere	bearbeiten, redigieren
+massakre	Massaker
+tilgodese	berücksichtigen
+lugt	Geruch
+filosofisk	philosophisch
+bureaukrati	Bürokratie
+reflektere	reflektieren
+partnerskab	Partnerschaft
+vismand	Weiser; Wirtschaftsweiser
+bosnisk	bosnisch
+genetisk	genetisch
+hjælper	Helfer
+dumpe	durchfallen
+narkoman	Drogenabhängiger
+kloster	Kloster
+uafhængighed	Unabhängigkeit
+korn	Korn, Getreide
+tilhører	Zuhörer
+urolig	unruhig
+rekruttere	rekrutieren
+forværre	verschlimmern
+komplicere	komplizieren
+nærværende	vorliegend; präsent
+sprød	knusprig
+kro	Gasthof
+seddel	Zettel; Schein
+larme	Lärm machen
+lektie	Hausaufgabe; Lektion
+overstige	übersteigen
+hvidløg	Knoblauch
+betinget	bedingt; auf Bewährung
+seksualitet	Sexualität
+datid	damalige Zeit; Vergangenheitsform
+sno	winden, drehen
+temperament	Temperament
+klemme	klemmen, drücken
+ark	Bogen (Papier)
+afvisning	Ablehnung
+kup	Putsch; Coup
+ørken	Wüste
+forvalte	verwalten
+delegation	Delegation
+blid	sanft
+gode	Gut, Vorteil
+efterforske	ermitteln
+hævn	Rache
+midnat	Mitternacht
+journal	Krankenakte; Journal
+indikere	anzeigen, hindeuten
+høne	Huhn, Henne
+besvær	Mühe
+orlov	Urlaub, Beurlaubung
+faglighed	Fachlichkeit
+længsel	Sehnsucht
+soveværelse	Schlafzimmer
+teskefuld	Teelöffel (Menge)
+drille	necken, ärgern
+procentpoint	Prozentpunkt
+overskuelig	übersichtlich
+filial	Filiale
+partileder	Parteivorsitzender
+aktivere	aktivieren
+pil	Pfeil; Weide (Baum)
+ensidig	einseitig
+monopol	Monopol
+kassere	ausrangieren; kassieren
+stål	Stahl
+kul	Kohle
+dispensation	Ausnahmegenehmigung
+kysse	küssen
+svindel	Betrug
+patent	Patent
+bokser	Boxer
+horn	Horn
+organisk	organisch
+undertrykkelse	Unterdrückung
+undtagen	außer
+kulminere	gipfeln
+knallert	Moped, Mofa
+intim	intim
+forudsige	vorhersagen
+maling	Farbe (zum Streichen)
+mægtig	mächtig, gewaltig
+rinde	rinnen
+hviske	flüstern
+opsige	kündigen
+hed	heiß
+benægte	leugnen
+atomvåben	Atomwaffe
+krog	Haken; Ecke
+fortrinsvis	vorzugsweise
+tænkning	Denken
+førtidspension	Erwerbsminderungsrente
+bøsse	Flinte; Schwuler; Sammelbüchse
+putte	stecken, legen
+ulv	Wolf
+sammenhold	Zusammenhalt
+manipulere	manipulieren
+skolegang	Schulbesuch
+udkast	Entwurf
+livlig	lebhaft
+incitament	Anreiz
+prostituere	prostituieren
+palads	Palast
+juleaften	Heiligabend
+skær	Schimmer
+barriere	Barriere
+julegave	Weihnachtsgeschenk
+vinke	winken
+undertiden	manchmal
+udflugt	Ausflug
+røv	Hintern
+drue	Traube
+illustration	Illustration
+sulten	hungrig
+socialist	Sozialist
+væbne	bewaffnen
+bagmand	Hintermann
+storme	stürmen
+kompensere	ausgleichen
+registrering	Registrierung
+fundere	grübeln; gründen
+musikkonservatorium	Musikhochschule
+autentisk	authentisch
+spejder	Pfadfinder
+forføre	verführen
+bekende	bekennen
+julemand	Weihnachtsmann
+dødelig	tödlich; sterblich
+kald	Berufung
+kanon	Kanone; Kanon
+rotte	Ratte
+organisme	Organismus
+aids	Aids
+værdsætte	schätzen, würdigen
+anstrengelse	Anstrengung
+lejer	Mieter
+ydmyg	demütig
+forvirring	Verwirrung
+særdeleshed	i særdeleshed = insbesondere
+uretfærdig	ungerecht
+velhavende	wohlhabend
+dåse	Dose
+tegneserie	Comic
+trommeslager	Schlagzeuger
+dessert	Nachtisch
+opkøbe	aufkaufen
+reportage	Reportage
+kortvarig	kurzzeitig
+formodentlig	vermutlich
+redning	Rettung
+holdbar	haltbar
+digte	dichten
+eksplosiv	explosiv
+resolution	Resolution
+domkirke	Dom
+tomme	Zoll (Maß)
+perle	Perle
+udeblive	ausbleiben
+røbe	verraten
+fejlagtig	fehlerhaft
+våbenhvile	Waffenruhe
+charme	Charme
+ytre	äußern
+tobak	Tabak
+argumentation	Argumentation
+forretningsmand	Geschäftsmann
+kur	Kur
+medgive	zugeben
+arve	erben
+overvægtig	übergewichtig
+mejeri	Molkerei
+objektiv	objektiv
+søm	Naht; Nagel
+sodavand	Limonade
+tåbelig	töricht
+kiosk	Kiosk
+tekniker	Techniker
+færdighed	Fertigkeit
+mikrofon	Mikrofon
+beliggende	gelegen
+attentat	Attentat
+rigdom	Reichtum
+stædig	stur
+tolk	Dolmetscher
+kriger	Krieger
+enke	Witwe
+idiot	Idiot
+levering	Lieferung
+elbil	Elektroauto
+vedligeholde	instand halten
+senator	Senator
+cykelsti	Radweg
+komisk	komisch
+ukrainsk	ukrainisch
+gengive	wiedergeben
+sløre	verschleiern
+kapitalisme	Kapitalismus
+mel	Mehl
+århusianer	Aarhuser
+hjemmelavet	hausgemacht
+punktum	Punkt (Satzzeichen)
+ydmyge	demütigen
+producer	Produzent
+panel	Gremium, Panel
+indendørs	drinnen
+beliggenhed	Lage
+sejl	Segel
+jævnaldrende	gleichaltrig
+mærkbar	spürbar
+parlamentarisk	parlamentarisch
+udforske	erforschen
+fremgangsmåde	Vorgehensweise
+lamme	lähmen
+ærinde	Besorgung
+taknemmelig	dankbar
+amatør	Amateur
+boghandel	Buchhandlung
+bagsæde	Rücksitz
+blinke	blinken, zwinkern
+udformning	Gestaltung
+usandsynlig	unwahrscheinlich
+guvernør	Gouverneur
+identisk	identisch
+hæmme	hemmen
+borte	fort, weg
+trille	rollen
+redegøre	darlegen
+årstid	Jahreszeit
+omhandle	behandeln
+slik	Süßigkeiten
+tvilling	Zwilling
+skurk	Schurke
+kreditor	Gläubiger
+senat	Senat
+oversvømmelse	Überschwemmung
+embede	Amt
+graviditet	Schwangerschaft
+smutte	flitzen; abhauen
+makker	Kumpel, Partner
+rage	ragen; kratzen
+ungarsk	ungarisch
+græker	Grieche
+middelklasse	Mittelschicht
+problematik	Problematik
+forurolige	beunruhigen
+ondskab	Bosheit
+påføre	zufügen; auftragen
+å	Bach, kleiner Fluss
+baltisk	baltisch
+rede	Nest; bereit
+gåde	Rätsel
+menig	gemein, einfach; einfacher Soldat
+livskvalitet	Lebensqualität
+troende	gläubig
+psykiatri	Psychiatrie
+skind	Haut, Fell, Leder
+anskaffe	anschaffen
+klubhus	Vereinsheim
+organist	Organist
+overnatte	übernachten
+hædre	ehren
+bearbejde	bearbeiten
+komponere	komponieren
+flink	nett
+ritual	Ritual
+knokle	schuften
+vride	wringen, verdrehen
+spark	Tritt
+mestre	meistern
+skænke	schenken; einschenken
+luksus	Luxus
+gigant	Riese
+ejerskab	Eigentum
+brage	krachen
+koloni	Kolonie
+forhindring	Hindernis
+vestkyst	Westküste
+dramatiker	Dramatiker
+vaccine	Impfstoff
+event	Event, Veranstaltung
+guldmedalje	Goldmedaille
+straffespark	Elfmeter
+ski	Ski
+protein	Protein, Eiweiß
+betænkelig	bedenklich
+forude	voraus
+overfladisk	oberflächlich
+relatere	beziehen
+uoverskuelig	unüberschaubar
+ensbetydende	gleichbedeutend
+medejer	Miteigentümer
+byrde	Last, Bürde
+snor	Schnur
+introduktion	Einführung
+udrydde	ausrotten
+undervurdere	unterschätzen
+fatal	fatal
+jakkesæt	Anzug
+tilstå	gestehen
+meningsløs	sinnlos
+brat	abrupt; steil
+parallel	parallel
+slette	löschen
+forkorte	verkürzen, abkürzen
+forhåbning	Hoffnung
+kurv	Korb
+parforhold	Partnerschaft, Beziehung
+indrømmelse	Zugeständnis
+latterlig	lächerlich
+brugbar	brauchbar
+grænseoverskridende	grenzüberschreitend
+ikon	Ikone; Symbol
+garage	Garage
+akt	Akt
+månedlig	monatlich
+reporter	Reporter
+nazisme	Nationalsozialismus
+salme	Kirchenlied, Psalm
+enes	sich einigen
+fravælge	abwählen
+forælde	veralten (forældet = veraltet)
+sekretariat	Sekretariat
+bore	bohren
+nisse	Wichtel
+regelmæssig	regelmäßig
+dej	Teig
+dramatik	Dramatik
+ed	Eid
+forunderlig	wundersam
+fiktiv	fiktiv
+parcelhus	Einfamilienhaus
+trivsel	Wohlbefinden
+skema	Schema; Formular; Stundenplan
+pragtfuld	prächtig
+krænkelse	Verletzung, Kränkung
+højlydt	lautstark
+stræbe	streben
+vitamin	Vitamin
+sprøjte	spritzen; Spritze
+danmarkshistorie	Geschichte Dänemarks
+tabel	Tabelle; Einmaleins
+kraftværk	Kraftwerk
+nysgerrighed	Neugier
+kompagni	Kompanie
+opsigt	Aufsehen
+arkæolog	Archäologe
+larm	Lärm
+udleje	vermieten
+gunstig	günstig
+violin	Geige
+teologisk	theologisch
+zoo	Zoo
+konkurrencedygtig	wettbewerbsfähig
+forudsigelig	vorhersehbar
+donere	spenden
+vågen	wach
+voldtage	vergewaltigen
+debattere	debattieren
+straffelov	Strafgesetzbuch
+kostume	Kostüm
+vital	vital
+overvægt	Übergewicht
+iagttage	beobachten
+campingplads	Campingplatz
+studentereksamen	Abitur
+utal	Unzahl
+kvartet	Quartett
+midtbanespiller	Mittelfeldspieler
+skælde	schimpfen (skælde ud)
+slagte	schlachten
+foranstaltning	Maßnahme
+mysterium	Rätsel, Mysterium
+paradoks	Paradox
+samtid	Zeitgenossen; Gegenwart
+hytte	Hütte
+destination	Reiseziel
+grusom	grausam
+knogle	Knochen
+amok	Amok
+orkan	Orkan
+bedrageri	Betrug
+franskmand	Franzose
+overlegen	überlegen
+atlet	Athlet
+dråbe	Tropfen
+begavet	begabt
+rejsebureau	Reisebüro
+bebyggelse	Bebauung, Siedlung
+usund	ungesund
+betjening	Bedienung
+færdiggøre	fertigstellen
+utænkelig	undenkbar
+olivenolie	Olivenöl
+høflig	höflich
+forarge	empören
+bedømmelse	Beurteilung
+lort	Scheiße; Mist
+henseende	Hinsicht
+bade	baden
+modernisering	Modernisierung
+retssikkerhed	Rechtssicherheit
+es	Ass
+respektive	jeweilig
+plukke	pflücken
+racistisk	rassistisch
+tilberede	zubereiten
+genvælge	wiederwählen
+dale	sinken, fallen
+observation	Beobachtung
+fugtig	feucht
+nydelig	hübsch, nett
+herude	hier draußen
+familieliv	Familienleben
+araber	Araber
+smække	knallen, zuschlagen
+støvle	Stiefel
+berige	bereichern
+forkæle	verwöhnen
+saft	Saft
+skoleelev	Schüler
+revolutionær	revolutionär
+værdighed	Würde
+bevæbne	bewaffnen
+vanlig	gewohnt, üblich
+ungdomshus	Jugendhaus
+skoleår	Schuljahr
+ironi	Ironie
+sidelinje	Seitenlinie
+prostitution	Prostitution
+database	Datenbank
+firkantet	viereckig; stur
+kulørt	farbig, bunt
+økologi	Ökologie
+diskrimination	Diskriminierung
+intelligens	Intelligenz
+forsyning	Versorgung
+modernisere	modernisieren
+fejltagelse	Irrtum
+jyde	Jütländer
+importør	Importeur
+udsyn	Aussicht; Weitblick
+beton	Beton
+eng	Wiese
+ocean	Ozean
+vedrøre	betreffen
+opdragelse	Erziehung
+oversigt	Übersicht
+efternavn	Nachname
+komposition	Komposition
+tosproget	zweisprachig
+rædsel	Schrecken, Grauen
+øm	zärtlich; wund, schmerzend
+overgive	übergeben; sich ergeben (overgive sig)
+prominent	prominent
+diabetes	Diabetes
+missil	Rakete
+værne	schützen
+brokke	meckern (brokke sig)
+blues	Blues
+elektronik	Elektronik
+satire	Satire
+betro	anvertrauen
+erindre	sich erinnern
+pung	Geldbeutel
+imperium	Imperium
+undergrave	untergraben
+aftage	abnehmen
+flyvning	Flug
+kommunistparti	kommunistische Partei
+fragte	befördern, transportieren
+mislykket	misslungen
+husejer	Hausbesitzer
+patrulje	Patrouille
+uddannelsesinstitution	Bildungseinrichtung
+mobning	Mobbing
+told	Zoll
+banegård	Bahnhof
+jungle	Dschungel
+aldersgruppe	Altersgruppe
+savn	Verlust, Entbehrung
+reservere	reservieren
+innovativ	innovativ
+isolation	Isolation
+væske	Flüssigkeit
+politistation	Polizeiwache
+suspendere	suspendieren
+rørende	rührend
+albaner	Albaner
+hyld	Holunder
+højttaler	Lautsprecher
+pære	Birne; Glühbirne
+dufte	duften
+bræt	Brett
+værke	schmerzen
+lække	lecken (undicht sein)
+skak	Schach
+stab	Stab
+etableret	etabliert
+klarhed	Klarheit
+afværge	abwehren
+tilgive	vergeben, verzeihen
+bamse	Teddybär
+betinge	bedingen
+aflæse	ablesen
+debattør	Debattierer
+høst	Ernte
+nøgtern	nüchtern
+holm	kleine Insel
+finans	Finanz
+konstituere	konstituieren; kommissarisch ernennen
+middelhav	Mittelmeer
+uhørt	unerhört
+afgrøde	Ernte, Feldfrucht
+chip	Chip
+legitim	legitim
+anmode	ersuchen
+pynt	Schmuck, Dekoration; Landspitze
+bortføre	entführen
+nummerplade	Nummernschild
+mærkesag	Herzensangelegenheit (politisch)
+mægler	Makler; Vermittler
+mexicansk	mexikanisch
+lidenskab	Leidenschaft
+fodre	füttern
+bær	Beere
+kabel	Kabel
+sjællandsk	seeländisch
+slank	schlank
+skæg	Bart; Spaß
+bagved	dahinter
+biolog	Biologe
+insekt	Insekt
+reol	Regal
+naturvidenskab	Naturwissenschaft
+bebrejde	vorwerfen
+brugerbetaling	Eigenbeteiligung
+hjemmehjælp	Haushaltshilfe, häusliche Pflege
+kredse	kreisen
+røst	Stimme
+lederskab	Führung
+jern	Eisen
+verdensberømt	weltberühmt
+syre	Säure
+indvendig	innen
+riste	rösten
+fordrive	vertreiben
+tavle	Tafel
+standpunkt	Standpunkt
+miljøvenlig	umweltfreundlich
+krybe	kriechen
+tempel	Tempel
+universel	universell
+skel	Grenze
+sive	sickern
+aflive	einschläfern
+indianer	Indianer
+citron	Zitrone
+sparsom	spärlich
+substans	Substanz
+dragt	Tracht, Anzug
+ægtemand	Ehemann
+frisør	Friseur
+bjørn	Bär
+formidabel	gewaltig
+kaserne	Kaserne
+omdiskuteret	umstritten
+slave	Sklave
+trøste	trösten
+gradvis	allmählich
+foretagende	Unternehmen
+husholdning	Haushalt
+udse	auswählen
+publicere	veröffentlichen
+eftertanke	Nachdenken
+ånde	atmen
+afskaffelse	Abschaffung
+mesterværk	Meisterwerk
+hindring	Hindernis
+campingvogn	Wohnwagen
+sølle	armselig
+dagpleje	Tagespflege
+skolelærer	Lehrer
+svømning	Schwimmen
+boss	Boss
+elsker	Liebhaber
+befrielse	Befreiung
+omend	wenn auch
+kiste	Truhe; Sarg
+vrøvl	Unsinn
+bager	Bäcker
+gran	Fichte
+kapel	Kapelle
+bestilling	Bestellung
+stable	stapeln
+lunge	Lunge
+skik	Sitte, Brauch
+ovenstående	oben stehend
+spild	Verschwendung
+spejle	spiegeln
+iver	Eifer
+ufrivillig	unfreiwillig
+bleg	blass
+nærvær	Präsenz
+mistillid	Misstrauen
+disk	Theke
+magi	Magie
+miljømæssig	ökologisch, Umwelt-
+ynde	mögen
+begynder	Anfänger
+fremkomme	erscheinen
+harmoni	Harmonie
+reklamere	werben; reklamieren
+vie	widmen; trauen (Ehe)
+rosa	rosa
+undskyld	Entschuldigung!
+forelægge	vorlegen
+grus	Kies
+appetit	Appetit
+fædreland	Vaterland
+matematisk	mathematisch
+parlamentariker	Parlamentarier
+overskue	überblicken
+hug	Hieb
+skænderi	Streit
+vitterlig	wirklich, tatsächlich
+madpakke	Lunchpaket, Brotdose
+monument	Denkmal
+inderlig	innig
+flade	Fläche
+udveksling	Austausch
+broget	bunt
+hidsig	hitzig, jähzornig
+vask	Wäsche; Waschbecken
+søværn	Marine
+drink	Drink
+strikke	stricken
+julefrokost	Weihnachtsfeier
+prædike	predigen
+hvidvin	Weißwein
+flå	häuten; reißen
+afskedigelse	Entlassung
+pædagogik	Pädagogik
+psykiater	Psychiater
+beherske	beherrschen
+uansvarlig	verantwortungslos
+kæft	Maul (hold kæft = halt die Klappe)
+telefonnummer	Telefonnummer
+trumf	Trumpf
+sexet	sexy
+sejler	Segler
+hej	hallo; tschüss
+kollektion	Kollektion
+bøf	Steak; Frikadelle
+omklædningsrum	Umkleideraum
+tolkning	Deutung
+statue	Statue
+evaluere	auswerten
+royal	königlich
+gardin	Vorhang, Gardine
+alsidig	vielseitig
+aktindsigt	Akteneinsicht
+bizar	bizarr
+orke	die Kraft haben, schaffen
+mafia	Mafia
+hule	Höhle
+fyrværkeri	Feuerwerk
+pagt	Pakt
+pizza	Pizza
+fascination	Faszination
+zoologisk	zoologisch
+livsfarlig	lebensgefährlich
+hierarki	Hierarchie
+opfyldelse	Erfüllung
+bue	Bogen
+afføde	hervorbringen
+aflevering	Abgabe; Pass (Sport)
+progressiv	progressiv
+præcision	Präzision
+fortsættelse	Fortsetzung
+tvang	Zwang
+buldre	poltern
+skytte	Schütze
+suverænitet	Souveränität
+ledning	Leitung, Kabel
+udlede	ausstoßen; ableiten
+ovennævnt	oben genannt
+frost	Frost
+hot	angesagt, heiß
+billedhugger	Bildhauer
+verdensmesterskab	Weltmeisterschaft
+march	Marsch
+nyfødt	neugeboren
+kurator	Kurator
+prestige	Prestige
+spand	Eimer
+flis	Splitter; Fliese
+maske	Maske
+motto	Motto
+propaganda	Propaganda
+computerspil	Computerspiel
+hop	Sprung
+uvildig	unparteiisch
+mundtlig	mündlich
+vikar	Vertretung, Aushilfe
+afhængighed	Abhängigkeit
+derinde	da drin
+forargelse	Empörung
+tie	schweigen
+trøst	Trost
+hovedgade	Hauptstraße
+indtræffe	eintreten, geschehen
+nyuddannet	frisch ausgebildet
+diamant	Diamant
+slips	Krawatte
+hjemby	Heimatstadt
+tyrker	Türke
+oplag	Auflage
+upopulær	unbeliebt
+allesammen	alle zusammen
+hellige	weihen, widmen
+grøft	Graben
+kanin	Kaninchen
+tilbageholdende	zurückhaltend
+cykelløb	Radrennen
+bredde	Breite
+golfbane	Golfplatz
+nationalitet	Nationalität
+lesbisk	lesbisch
+sociolog	Soziologe
+sydafrikansk	südafrikanisch
+infektion	Infektion
+elektricitet	Elektrizität
+ydermere	außerdem
+nordmand	Norweger
+bagagerum	Kofferraum
+hænde	geschehen
+hamre	hämmern
+dyne	Bettdecke
+prise	preisen
+synderlig	besonders (ikke synderlig = nicht sonderlich)
+gågade	Fußgängerzone
+opgang	Treppenhaus; Aufgang
+aftensmad	Abendessen
+påbud	Gebot, Anordnung
+mane	mahnen
+hede	Heide
+sart	zart, empfindlich
+anstrenge	anstrengen
+fjendtlig	feindlich
+latin	Latein
+omhu	Sorgfalt
+flue	Fliege
+ædel	edel
+spøgelse	Gespenst
+hysterisk	hysterisch
+omme	dort (hinten/drüben)
+jomfru	Jungfrau
+lad	Ladefläche
+medborger	Mitbürger
+biologi	Biologie
+tarm	Darm
+fjer	Feder
+næring	Nahrung
+vigtighed	Wichtigkeit
+bolle	Brötchen; Klößchen
+fane	Fahne; Tab
+genoprette	wiederherstellen
+hobby	Hobby
+sæde	Sitz
+censur	Zensur
+ridder	Ritter
+umådelig	unermesslich
+bestand	Bestand
+gensyn	Wiedersehen
+hjelm	Helm
+blotte	entblößen
+maritim	maritim
+bukke	verbeugen (bukke sig)
+dyste	kämpfen, wetteifern
+samler	Sammler
+blænde	blenden
+pels	Pelz, Fell
+broderskab	Brüderschaft
+tilbøjelig	geneigt
+herved	hierdurch
+anstændig	anständig
+dødsstraf	Todesstrafe
+sande	versanden
+fløde	Sahne
+brygge	Kai, Steg
+tjekkisk	tschechisch
+korrigere	korrigieren
+kroatisk	kroatisch
+landsmand	Landsmann
+honorar	Honorar
+spredning	Verbreitung, Streuung
+helbrede	heilen
+hast	Eile
+øjensynlig	offensichtlich
+styrkelse	Stärkung
+referat	Protokoll, Zusammenfassung
+endeløs	endlos
+oprigtig	aufrichtig
+pen	Stift, Kuli
+slægtning	Verwandter
+forfalde	verfallen
+skød	Schoß
+endsige	geschweige denn
+deling	Teilung
+belastet	belastet
+indeværende	laufend, aktuell
+tænker	Denker
+boykot	Boykott
+hovedkontor	Hauptsitz
+skuespillerinde	Schauspielerin
+advokatfirma	Anwaltskanzlei
+halvø	Halbinsel
+detailhandel	Einzelhandel
+passer	Zirkel
+fremmøde	Teilnahme, Erscheinen
+gennemførelse	Durchführung
+privilegium	Privileg
+teolog	Theologe
+broder	Bruder
+iklæde	kleiden
+evakuere	evakuieren
+forsørge	versorgen
+utryg	unsicher, unwohl
+forvandling	Verwandlung
+roma	Rom (Volk), Roma
+vandring	Wanderung
+tilpasning	Anpassung
+aktivering	Aktivierung
+skræk	Schreck
+ophidse	aufregen
+frimærke	Briefmarke
+hofte	Hüfte
+romantik	Romantik
+støve	stauben
+harmonisk	harmonisch
+bekendtgørelse	Bekanntmachung; Verordnung
+somalisk	somalisch
+anmodning	Ersuchen, Antrag
+risikabel	riskant
+torsk	Dorsch, Kabeljau
+konvertere	konvertieren
+socialisme	Sozialismus
+hovedret	Hauptgericht
+unægtelig	unleugbar
+genopbygning	Wiederaufbau
+abonnement	Abonnement
+taxi	Taxi
+indbrudstyv	Einbrecher
+alkoholiker	Alkoholiker
+slange	Schlange; Schlauch
+fristelse	Versuchung
+guddommelig	göttlich
+drikkevand	Trinkwasser
+foster	Fötus
+lønne	belohnen; sich lohnen (lønne sig)
+supplement	Ergänzung
+klo	Klaue, Kralle
+vandværk	Wasserwerk
+ceremoni	Zeremonie
+boksning	Boxen
+gymnasieelev	Gymnasiast
+virtuel	virtuell
+arrogant	arrogant
+varighed	Dauer
+henrettelse	Hinrichtung
+præcisere	präzisieren
+skænde	schimpfen; streiten (skændes)
+repræsentativ	repräsentativ
+hæk	Hecke; Hürde
+øjne	erblicken
+heroin	Heroin
+beklagelig	bedauerlich
+disposition	Gliederung; Verfügung
+optik	Optik
+svinde	schwinden
+kortsigtet	kurzfristig
+albansk	albanisch
+vittighed	Witz
+forfald	Verfall
+finne	Finne
+kys	Kuss
+mursten	Ziegelstein
+persille	Petersilie
+totalitær	totalitär
+barsel	Elternzeit, Mutterschaftsurlaub
+fysioterapeut	Physiotherapeut
+genoplive	wiederbeleben
+drivhusgas	Treibhausgas
+implementere	umsetzen
+kaj	Kai
+tilkendegive	kundtun
+lår	Oberschenkel
+loppemarked	Flohmarkt
+stang	Stange
+spændt	gespannt
+restauratør	Gastwirt
+garde	Garde
+pink	pink
+saftig	saftig
+sikken	was für (ein) (sikken et vejr! = was für ein Wetter!)
+sikring	Sicherung
+eksil	Exil
+doven	faul
+indvending	Einwand
+irritation	Ärger; Reizung
+kender	Kenner
+blodprøve	Blutprobe
+hof	Hof (Königshof)
+ærme	Ärmel
+hjemmehjælper	Haushaltshilfe, Pflegekraft
+sæk	Sack
+keramik	Keramik
+invadere	einmarschieren
+lempe	lockern
+byg	Gerste
+beslaglægge	beschlagnahmen
+bevirke	bewirken
+fil	Datei; Spur (Fahrbahn); Feile
+mistænkelig	verdächtig
+lystig	lustig, fröhlich
+fars	Hackfleisch
+hammer	Hammer
+matrikel	Grundbuch, Flurstück
+målestok	Maßstab
+oksekød	Rindfleisch
+parameter	Parameter
+afskrive	abschreiben
+spytte	spucken
+gevær	Gewehr
+drøne	dröhnen; rasen
+slagter	Metzger
+hovedpine	Kopfschmerzen
+træningslejr	Trainingslager
+døje	ertragen, leiden
+ildsjæl	Feuerkopf, engagierter Mensch
+damp	Dampf
+dirre	zittern, beben
+grønlænder	Grönländer
+kongerige	Königreich
+frembringe	hervorbringen
+rækkehus	Reihenhaus
+imødegå	entgegentreten
+politimester	Polizeidirektor
+jubel	Jubel
+uforudsigelig	unvorhersehbar
+fritage	befreien
+vane	Gewohnheit
+ram	ranzig; hart (det er ramme alvor = bitterer Ernst)
+forringelse	Verschlechterung
+trodse	trotzen
+ordbog	Wörterbuch
+anekdote	Anekdote
+fodspor	Fußspur
+fartøj	Fahrzeug, Wasserfahrzeug
+trafikant	Verkehrsteilnehmer
+ejerlejlighed	Eigentumswohnung
+privilegere	privilegieren
+skjold	Schild
+foragt	Verachtung
+spot	Spott; Spot (Licht)
+traktor	Traktor
+umage	ungleich (Paar)
+navne	Namensvetter
+bassin	Becken
+nævneværdig	nennenswert
+tåge	Nebel
+stræde	Gasse; Meerenge
+årtusinde	Jahrtausend
+kasket	Schirmmütze
+tålmodig	geduldig
+komfortabel	bequem
+kollaps	Zusammenbruch
+nydelse	Genuss
+ministerråd	Ministerrat
+seniorforsker	leitender Forscher
+søjle	Säule
+mage	Gleichen (mage til = so etwas wie); Partner
+uvidenhed	Unwissenheit
+spalte	Spalte
+teologi	Theologie
+narko	Drogen
+diskriminere	diskriminieren
+omdømme	Ruf, Ansehen
+ballon	Ballon
+belysning	Beleuchtung
+forlyde	verlauten
+hæder	Ehre
+hernede	hier unten
+bestikkelse	Bestechung
+tynge	belasten
+nationalisme	Nationalismus
+gløde	glühen
+inspektør	Inspektor
+indberette	melden
+elevator	Aufzug
+buket	Strauß (Blumen)
+tordne	donnern
+genåbne	wiedereröffnen
+lærling	Lehrling
+portefølje	Portfolio
+bedstefar	Großvater
+mangfoldig	vielfältig
+utilstrækkelig	unzureichend
+lind	sanft, mild
+lyn	Blitz
+fornærme	beleidigen
+klump	Klumpen
+lillesøster	kleine Schwester
+pokal	Pokal
+fraværende	abwesend
+imødekommende	entgegenkommend
+deroppe	da oben
+genforening	Wiedervereinigung
+privatskole	Privatschule
+lam	Lamm; gelähmt
+retfærdiggøre	rechtfertigen
+krukke	Krug, Topf
+kronprinsesse	Kronprinzessin
+posthus	Postamt
+underkende	aufheben, verwerfen
+repræsentantskab	Vertreterversammlung
+bur	Käfig
+nordjyde	Nordjütländer
+ubevidst	unbewusst
+løsne	lösen, lockern
+pegefinger	Zeigefinger
+partikel	Partikel
+hval	Wal
+pisk	Peitsche
+modvilje	Widerwille
+likviditet	Liquidität
+forenkle	vereinfachen
+blodtryk	Blutdruck
+klumme	Kolumne
+optimere	optimieren
+skraldespand	Mülleimer
+overdådig	üppig
+indlæggelse	Krankenhausaufenthalt
+tang	Zange; Tang
+ustabil	instabil
+antagelse	Annahme
+burger	Burger
+pragmatisk	pragmatisch
+mærkværdig	merkwürdig
+forundre	verwundern
+spotte	verspotten; entdecken
+medtage	mitnehmen
+kampvogn	Panzer
+dryppe	tropfen
+derovre	da drüben
+forløse	erlösen
+solidarisk	solidarisch
+skrumpe	schrumpfen
+chili	Chili
+argentinsk	argentinisch
+vanvid	Wahnsinn
+strande	stranden
+bunde	austrinken (auf ex)
+distribution	Vertrieb
+spredt	verstreut
+svinekød	Schweinefleisch
+kørestol	Rollstuhl
+rangere	einordnen; rangieren
+sopran	Sopran
+helligdag	Feiertag
+kast	Wurf
+kontekst	Kontext
+iraner	Iraner
+snarest	baldmöglichst
+pasta	Nudeln, Pasta
+morfar	Großvater (mütterlicherseits)
+vægte	gewichten
+epoke	Epoche
+rokke	rütteln
+udlejning	Vermietung
+herom	hierüber
+begave	beschenken; begeben (begave sig)
+pasning	Betreuung, Pflege
+hovedbanegård	Hauptbahnhof
+køle	kühlen
+kommende	kommend
+forfølgelse	Verfolgung
+fryd	Freude
+portugisisk	portugiesisch
+giver	Geber, Spender
+brochure	Broschüre
+uddrag	Auszug
+arbejdsforhold	Arbeitsbedingungen
+jordbær	Erdbeere
+fridag	freier Tag
+derhen	dorthin
+forveksle	verwechseln
+skabelse	Schöpfung
+autonom	autonom
+djævel	Teufel
+smertefuld	schmerzhaft
+fossil	fossil
+nervøsitet	Nervosität
+frelse	retten, erlösen
+modstå	widerstehen
+romer	Römer
+banan	Banane
+idyl	Idylle
+pavillon	Pavillon
+frugtbar	fruchtbar
+refleksion	Reflexion
+afstå	verzichten; abtreten
+repræsentation	Vertretung
+beslægtet	verwandt
+tabu	Tabu
+ortodoks	orthodox
+ombygge	umbauen
+velsignelse	Segen
+spindoktor	Spindoktor
+tante	Tante
+arktisk	arktisch
+skrælle	schälen
+østtysk	ostdeutsch
+smuldre	bröckeln
+forhøjelse	Erhöhung
+højhus	Hochhaus
+assistere	assistieren
+returnere	zurückgeben
+jugoslavisk	jugoslawisch
+bugne	sich biegen (vor Fülle)
+skør	verrückt; spröde
+delegere	delegieren
+intensivere	verstärken
+mislykkes	misslingen
+mør	zart, mürbe
+dieselmotor	Dieselmotor
+tilfældigvis	zufällig
+bakket	hügelig
+grænsekontrol	Grenzkontrolle
+komponent	Bestandteil
+overdrive	übertreiben
+genfinde	wiederfinden
+promovere	fördern, bewerben
+overvinde	überwinden
+mager	mager
+abstrakt	abstrakt
+klint	Steilküste, Klippe
+influenza	Grippe
+bedyre	beteuern
+pibe	Pfeife
+bæredygtighed	Nachhaltigkeit
+ly	Schutz, Obdach
+forespørgsel	Anfrage
+stempel	Stempel; Kolben
+anfægte	anfechten
+ar	Narbe
+aktieselskab	Aktiengesellschaft
+rugbrød	Roggenbrot
+fuldende	vollenden
+funktionel	funktional
+munde	münden
+evighed	Ewigkeit
+klassekammerat	Klassenkamerad
+berømmelse	Ruhm
+chikane	Schikane
+åbenbar	offenbar
+afslappe	entspannen
+bombardement	Bombardierung
+samvirke	Zusammenwirken; Genossenschaft
+indfødt	einheimisch
+spion	Spion
+terapi	Therapie
+særegen	eigentümlich
+forelskelse	Verliebtheit
+maskulin	männlich, maskulin
+opslag	Eintrag; Aushang
+bedstemor	Großmutter
+ræv	Fuchs
+trone	Thron
+alskens	allerlei
+farmor	Großmutter (väterlicherseits)
+undslippe	entkommen
+nytårsaften	Silvester
+restriktion	Beschränkung
+tiltro	Vertrauen
+moské	Moschee
+træthed	Müdigkeit
+mase	quetschen; drängeln
+fødselar	Geburtstagskind
+genbrug	Recycling; Second Hand
+ophøje	erheben
+gulerod	Möhre, Karotte
+afgrund	Abgrund
+tilbygning	Anbau
+camping	Camping
+sublim	sublim
+birk	Birke
+forudsigelse	Vorhersage
+længes	sich sehnen
+skare	Schar
+tremme	Gitterstab
+rygsæk	Rucksack
+fingeraftryk	Fingerabdruck
+korps	Korps
+lod	Los; Lot
+stadighed	Beständigkeit (i stadighed = ständig)
+fyld	Füllung
+ler	Ton, Lehm
+snaps	Schnaps
+budgettere	budgetieren
+nødsage	nötigen
+farfar	Großvater (väterlicherseits)
+karismatisk	charismatisch
+befolke	bevölkern
+forret	Vorspeise
+værn	Schutz; Wehrdienst
+udlejer	Vermieter
+alderdom	Alter (Lebensabschnitt)
+ansøge	beantragen
+lem	Glied
+urt	Kraut
+overens	überein (stemme overens = übereinstimmen)
+lukrativ	lukrativ
+fallit	Bankrott
+forekomst	Vorkommen
+sprængstof	Sprengstoff
+honning	Honig
+svine	versauen
+idol	Idol
+observatør	Beobachter
+rapper	Rapper
+slap	schlaff, locker
+marina	Jachthafen
+negl	Nagel (Finger)
+æske	Schachtel
+tankstation	Tankstelle
+måne	Mond
+plæne	Rasen
+orgel	Orgel
+sømand	Seemann
+eventyrlig	märchenhaft
+mumle	murmeln
+stump	Stück, Stumpf
+altan	Balkon
+koordinator	Koordinator
+trailer	Anhänger; Trailer
+blusse	auflodern
+tese	These
+kradse	kratzen
+håndklæde	Handtuch
+optræden	Auftritt
+lygte	Lampe, Laterne
+kurve	Kurve
+autoritær	autoritär
+sværd	Schwert
+doktor	Doktor, Arzt
+pub	Pub, Kneipe
+efterleve	befolgen
+behold	Sicherheit (i behold = wohlbehalten)
+forbande	verfluchen
+generøs	großzügig
+mose	Moor
+storhed	Größe
+pengepung	Geldbeutel
+kyndig	kundig
+arving	Erbe (Person)
+selvforståelse	Selbstverständnis
+forkaste	verwerfen
+metropol	Metropole
+heks	Hexe
+drik	Getränk
+ydmygelse	Demütigung
+uskyld	Unschuld
+verdensrekord	Weltrekord
+afghaner	Afghane
+berettiget	berechtigt
+servicere	betreuen, warten
+udvendig	äußerlich
+åre	Ader
+handske	Handschuh
+forord	Vorwort
+velgørende	wohltuend; wohltätig
+direktorat	Direktion, Behörde
+skrig	Schrei
+elementær	elementar
+sved	Schweiß
+æra	Ära
+kredsløb	Kreislauf
+livslang	lebenslang
+børnehjem	Kinderheim
+tyngde	Schwere
+bedring	Besserung (god bedring! = gute Besserung!)
+shop	Laden
+skåne	schonen
+spektrum	Spektrum
+mast	Mast
+øremærke	zweckbinden
+afslå	ablehnen
+pude	Kissen
+bureaukratisk	bürokratisch
+gennemsigtig	durchsichtig
+genopbygge	wiederaufbauen
+foder	Futter
+stok	Stock
+palæ	Palais, Herrenhaus
+drys	Prise, Streusel
+pudse	putzen, polieren
+lilla	lila
+nåde	Gnade
+kuvert	Umschlag
+libanesisk	libanesisch
+genvalg	Wiederwahl
+forelæsning	Vorlesung
+svede	schwitzen
+underbygge	untermauern
