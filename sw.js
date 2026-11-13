@@ -6,7 +6,7 @@
 // keep APP_SHELL in sync with the <link>/<script> tags in index.html.
 
 var CACHE_PREFIX = 'datrain-shell-';
-var CACHE_NAME = CACHE_PREFIX + 'v1';
+var CACHE_NAME = CACHE_PREFIX + 'v2';
 var APP_SHELL = [
   'index.html',
   'css/app.css',
@@ -20,6 +20,7 @@ var APP_SHELL = [
   'js/cards.js',
   'js/stories.js',
   'js/vocab.js',
+  'js/stats.js',
   'js/settings.js',
   'js/backup.js',
   'js/navigation.js',

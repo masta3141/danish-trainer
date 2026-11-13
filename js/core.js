@@ -76,7 +76,28 @@ var fonts = loadFonts();
 applyFonts();
 
 // ---------- activity (streak of practice days, ratings per day) ----------
+// Day keys are UTC dates (as in the HSK app).
 function todayStr(){ return new Date().toISOString().slice(0, 10); }
+// Local-noon date key for year/month(0-based)/day, for the stats calendar.
+// Noon instead of midnight keeps it on the same day as todayStr() in almost
+// every timezone.
+function dateKeyForYMD(y, m, d){
+  return new Date(y, m, d, 12, 0, 0).toISOString().slice(0, 10);
+}
+function loadActivityDays(){ var d = loadJson(ACTIVITY_KEY, []); return Array.isArray(d) ? d : []; }
+function loadDailyCounts(){ return loadJson(DAILY_COUNTS_KEY, {}) || {}; }
+function loadTotalRatings(){ return parseInt(loadJson(TOTAL_RATINGS_KEY, 0), 10) || 0; }
+// Days in a row with at least one rating; not practised yet today = the
+// streak still counts through yesterday.
+function computeStreak(){
+  var set = {};
+  loadActivityDays().forEach(function(d){ set[d] = true; });
+  var d = new Date();
+  if (!set[todayStr()]) d.setDate(d.getDate() - 1);
+  var streak = 0;
+  while (set[d.toISOString().slice(0, 10)]) { streak++; d.setDate(d.getDate() - 1); }
+  return streak;
+}
 function recordActivity(){
   var days = loadJson(ACTIVITY_KEY, []);
   var t = todayStr();

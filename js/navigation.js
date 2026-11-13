@@ -1,7 +1,7 @@
-// Navigation: the tab bar (Vokabeln | Karten | Geschichten); the last tab is remembered.
+// Navigation: the tab bar (Vokabeln | Karten | Geschichten | Statistiken); the last tab is remembered.
 "use strict";
 
-var VIEWS = { vocab: 'vocabView', cards: 'cardsView', stories: 'storiesView' };
+var VIEWS = { vocab: 'vocabView', cards: 'cardsView', stories: 'storiesView', stats: 'statsView' };
 
 function switchView(name){
   if (!VIEWS[name]) name = 'cards';
@@ -15,6 +15,7 @@ function switchView(name){
     b.setAttribute('aria-selected', on ? 'true' : 'false');
   });
   if (name === 'stories') renderStories();
+  if (name === 'stats') renderStatsTab();
   settings.view = name;
   saveSettings();
 }
@@ -24,6 +25,7 @@ function renderAll(){
   renderVocab();
   render();
   renderStories();
+  renderStatsTab();
 }
 
 function initNavigation(){

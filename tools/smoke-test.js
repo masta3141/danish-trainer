@@ -394,6 +394,32 @@ async function main(){
       check('stories survive a reload', (await ev('stories.length')) === 2 && (await ev('settings.view')) === 'stories');
     });
 
+    await section('Stats', async () => {
+      await click('#tabStats');
+      check('stats tab opens', await ev('document.getElementById("statsView").style.display === ""') && await exists('.stats-wrap'));
+      check('key figures show learned words and ratings', (await count('.stat-card')) >= 6 && /\d+ von 5000 gelernt/.test(await text('.stats-wrap')));
+      check('today is marked in the calendar with its card count', /\d/.test(await text('.cal-today .cal-day-count')));
+      check('one progress row per level A1–C1', (await count('.lvlp-row')) === 5);
+      check('text coverage of the learned words is above 0%', parseFloat(await text('#statCoverage .stat-value')) > 0, await text('#statCoverage .stat-value'));
+      check('coverage of all words matches the DSL data (~77%)', /^7\d%/.test(await text('.stat-card:nth-child(2) .stat-value')) || /7\d%/.test(await text('.stats-wrap')));
+      await click('[data-cal-icon="bars"]');
+      check('📊 opens the bar chart (14 days)', (await count('.cal-bar-col')) === 14);
+      await click('[data-cal-gran="month"]');
+      check('bar chart switches to months', (await count('.cal-bar-col')) === 12);
+      await click('[data-cal-icon="curve"]');
+      check('📈 opens the progress curve', await exists('.cal-curve-svg polyline'));
+      await click('[data-cal-close]');
+      check('the detail panel closes', !(await exists('.cal-detail-panel')));
+      const month = await text('.cal-title');
+      await click('[data-cal-prev]');
+      check('‹ shows the previous month', (await text('.cal-title')) !== month);
+      await ev('window.__spoken = []; true');
+      await click('.freq-word-row[data-wid]');
+      check('tapping a suggested word speaks it', (await ev('window.__spoken.length')) === 1);
+      await reload();
+      check('the stats tab is remembered', (await ev('settings.view')) === 'stats' && await exists('.stats-wrap'));
+    });
+
     await section('Settings', async () => {
       await click('#btnSettings');
       check('settings drawer opens', await ev('document.getElementById("drawer").classList.contains("show")'));
@@ -441,6 +467,10 @@ async function main(){
       await click('#tabStories');
       await click('[data-open-id]');
       check('no horizontal scrolling on a phone (stories)', await ev('document.documentElement.scrollWidth <= window.innerWidth'), await ev('[document.documentElement.scrollWidth, window.innerWidth]'));
+      await click('#tabStats');
+      await sleep(300);
+      check('no horizontal scrolling on a phone (stats)', await ev('document.documentElement.scrollWidth <= window.innerWidth'), await ev('[document.documentElement.scrollWidth, window.innerWidth]'));
+      check('all four tabs fit on a phone', await ev('(function(){ var r = document.getElementById("tabStats").getBoundingClientRect(); return r.right <= window.innerWidth; })()'));
       await click('#btnSettings');
       await sleep(400);
       check('settings fit on a phone', await ev('document.getElementById("drawer").getBoundingClientRect().right <= window.innerWidth + 1'));

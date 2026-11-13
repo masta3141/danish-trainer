@@ -23,7 +23,8 @@ become one word with the word class of the most frequent reading.
 
 Word shape: {id, l: 'A1'..'C1', w: Danish lemma, a: 'en'/'et' (nouns),
              r: forms summary (e.g. "huset · huse", "går · gik · gået"),
-             e: German gloss, p: word class code, f: frequency rank}
+             e: German gloss, p: word class code, f: frequency rank,
+             q: share of all running words in the DSL corpus, per million}
 Empty fields are left out. Ids 1..N follow frequency rank.
 """
 import gzip, json, re, sys, unicodedata
@@ -219,6 +220,7 @@ def main():
             if d[k]:
                 e[k] = d[k]
         e['f'] = i
+        e['q'] = round(d['freq'] * 1e6, 1)
         out.append(e)
 
     if '--worklist' in sys.argv:
